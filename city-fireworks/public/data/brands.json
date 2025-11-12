@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "佩姐老火锅",
+    "market_share": 13.9,
+    "avg_wait_time": 17,
+    "store_count": 207,
+    "price_position": "大众",
+    "update_date": "2025-11-08"
+  },
+  {
+    "id": 2,
+    "name": "周师兄火锅",
+    "market_share": 10.8,
+    "avg_wait_time": 69,
+    "store_count": 128,
+    "price_position": "高端",
+    "update_date": "2025-11-08"
+  },
+  {
+    "id": 3,
+    "name": "秦妈火锅",
+    "market_share": 17.6,
+    "avg_wait_time": 49,
+    "store_count": 266,
+    "price_position": "大众",
+    "update_date": "2025-11-08"
+  },
+  {
+    "id": 4,
+    "name": "德庄火锅",
+    "market_share": 9.1,
+    "avg_wait_time": 86,
+    "store_count": 293,
+    "price_position": "中端",
+    "update_date": "2025-11-08"
+  },
+  {
+    "id": 5,
+    "name": "小天鹅火锅",
+    "market_share": 19.3,
+    "avg_wait_time": 59,
+    "store_count": 138,
+    "price_position": "中端",
+    "update_date": "2025-11-08"
+  },
+  {
+    "id": 6,
+    "name": "刘一手火锅",
+    "market_share": 8.7,
+    "avg_wait_time": 37,
+    "store_count": 257,
+    "price_position": "高端",
+    "update_date": "2025-11-08"
+  },
+  {
+    "id": 7,
+    "name": "桥头火锅",
+    "market_share": 5.2,
+    "avg_wait_time": 88,
+    "store_count": 218,
+    "price_position": "大众",
+    "update_date": "2025-11-08"
+  },
+  {
+    "id": 8,
+    "name": "渝味晓宇",
+    "market_share": 5.1,
+    "avg_wait_time": 20,
+    "store_count": 244,
+    "price_position": "中端",
+    "update_date": "2025-11-08"
+  },
+  {
+    "id": 9,
+    "name": "大龙火锅",
+    "market_share": 5.3,
+    "avg_wait_time": 65,
+    "store_count": 240,
+    "price_position": "大众",
+    "update_date": "2025-11-08"
+  },
+  {
+    "id": 10,
+    "name": "巴将军火锅",
+    "market_share": 5.0,
+    "avg_wait_time": 40,
+    "store_count": 238,
+    "price_position": "高端",
+    "update_date": "2025-11-08"
+  }
+]

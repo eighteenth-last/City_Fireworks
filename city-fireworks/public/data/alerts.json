@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "alert_time": "2025-11-08 01:03:11",
+    "alert_type": "交通管制",
+    "content": "铜梁区 交通管制：交通延误↑",
+    "impact_value": "+42%",
+    "status": 1
+  },
+  {
+    "id": 2,
+    "alert_time": "2025-11-06 06:03:11",
+    "alert_type": "演唱会活动",
+    "content": "开州区 演唱会活动：火锅预订率↑",
+    "impact_value": "+14%",
+    "status": 1
+  },
+  {
+    "id": 3,
+    "alert_time": "2025-11-06 13:03:11",
+    "alert_type": "暴雨预警",
+    "content": "渝中区 暴雨预警：交通延误↑",
+    "impact_value": "+34%",
+    "status": 0
+  },
+  {
+    "id": 4,
+    "alert_time": "2025-11-02 06:03:11",
+    "alert_type": "节假日高峰",
+    "content": "忠县 节假日高峰：火锅预订率↑",
+    "impact_value": "+37%",
+    "status": 1
+  },
+  {
+    "id": 5,
+    "alert_time": "2025-11-05 23:03:11",
+    "alert_type": "交通管制",
+    "content": "秀山县 交通管制：人流激增↑",
+    "impact_value": "+47%",
+    "status": 0
+  },
+  {
+    "id": 6,
+    "alert_time": "2025-11-06 12:03:11",
+    "alert_type": "暴雨预警",
+    "content": "渝中区 暴雨预警：交通延误↑",
+    "impact_value": "+22%",
+    "status": 0
+  },
+  {
+    "id": 7,
+    "alert_time": "2025-11-02 00:03:11",
+    "alert_type": "暴雨预警",
+    "content": "璧山区 暴雨预警：人流激增↑",
+    "impact_value": "+22%",
+    "status": 1
+  },
+  {
+    "id": 8,
+    "alert_time": "2025-11-02 17:03:11",
+    "alert_type": "交通管制",
+    "content": "巫山县 交通管制：交通延误↑",
+    "impact_value": "+32%",
+    "status": 1
+  },
+  {
+    "id": 9,
+    "alert_time": "2025-11-04 11:03:11",
+    "alert_type": "演唱会活动",
+    "content": "江津区 演唱会活动：火锅预订率↑",
+    "impact_value": "+33%",
+    "status": 1
+  },
+  {
+    "id": 10,
+    "alert_time": "2025-11-07 10:03:11",
+    "alert_type": "交通管制",
+    "content": "渝北区 交通管制：人流激增↑",
+    "impact_value": "+21%",
+    "status": 1
+  },
+  {
+    "id": 11,
+    "alert_time": "2025-11-03 07:03:11",
+    "alert_type": "体育赛事",
+    "content": "璧山区 体育赛事：人流激增↑",
+    "impact_value": "+26%",
+    "status": 0
+  },
+  {
+    "id": 12,
+    "alert_time": "2025-11-03 22:03:11",
+    "alert_type": "体育赛事",
+    "content": "梁平区 体育赛事：交通延误↑",
+    "impact_value": "+16%",
+    "status": 0
+  },
+  {
+    "id": 13,
+    "alert_time": "2025-11-05 15:03:11",
+    "alert_type": "演唱会活动",
+    "content": "合川区 演唱会活动：人流激增↑",
+    "impact_value": "+22%",
+    "status": 0
+  },
+  {
+    "id": 14,
+    "alert_time": "2025-11-07 00:03:11",
+    "alert_type": "节假日高峰",
+    "content": "渝中区 节假日高峰：交通延误↑",
+    "impact_value": "+16%",
+    "status": 1
+  },
+  {
+    "id": 15,
+    "alert_time": "2025-11-06 22:03:11",
+    "alert_type": "节假日高峰",
+    "content": "合川区 节假日高峰：交通延误↑",
+    "impact_value": "+10%",
+    "status": 1
+  },
+  {
+    "id": 16,
+    "alert_time": "2025-11-04 21:03:11",
+    "alert_type": "节假日高峰",
+    "content": "綦江区 节假日高峰：火锅预订率↑",
+    "impact_value": "+30%",
+    "status": 1
+  },
+  {
+    "id": 17,
+    "alert_time": "2025-11-05 02:03:11",
+    "alert_type": "节假日高峰",
+    "content": "秀山县 节假日高峰：交通延误↑",
+    "impact_value": "+17%",
+    "status": 0
+  },
+  {
+    "id": 18,
+    "alert_time": "2025-11-07 12:03:11",
+    "alert_type": "演唱会活动",
+    "content": "潼南区 演唱会活动：交通延误↑",
+    "impact_value": "+40%",
+    "status": 0
+  },
+  {
+    "id": 19,
+    "alert_time": "2025-11-02 02:03:11",
+    "alert_type": "体育赛事",
+    "content": "綦江区 体育赛事：交通延误↑",
+    "impact_value": "+19%",
+    "status": 1
+  },
+  {
+    "id": 20,
+    "alert_time": "2025-11-07 11:03:11",
+    "alert_type": "暴雨预警",
+    "content": "涪陵区 暴雨预警：交通延误↑",
+    "impact_value": "+42%",
+    "status": 0
+  },
+  {
+    "id": 21,
+    "alert_time": "2025-11-06 17:03:11",
+    "alert_type": "节假日高峰",
+    "content": "武隆区 节假日高峰：交通延误↑",
+    "impact_value": "+35%",
+    "status": 0
+  },
+  {
+    "id": 22,
+    "alert_time": "2025-11-03 21:03:11",
+    "alert_type": "高温预警",
+    "content": "璧山区 高温预警：火锅预订率↑",
+    "impact_value": "+10%",
+    "status": 0
+  },
+  {
+    "id": 23,
+    "alert_time": "2025-11-05 09:03:11",
+    "alert_type": "暴雨预警",
+    "content": "渝中区 暴雨预警：交通延误↑",
+    "impact_value": "+23%",
+    "status": 1
+  },
+  {
+    "id": 24,
+    "alert_time": "2025-11-04 03:03:11",
+    "alert_type": "高温预警",
+    "content": "南川区 高温预警：交通延误↑",
+    "impact_value": "+14%",
+    "status": 1
+  },
+  {
+    "id": 25,
+    "alert_time": "2025-11-01 15:03:11",
+    "alert_type": "交通管制",
+    "content": "铜梁区 交通管制：交通延误↑",
+    "impact_value": "+48%",
+    "status": 0
+  },
+  {
+    "id": 26,
+    "alert_time": "2025-11-02 15:03:11",
+    "alert_type": "演唱会活动",
+    "content": "南川区 演唱会活动：火锅预订率↑",
+    "impact_value": "+10%",
+    "status": 0
+  },
+  {
+    "id": 27,
+    "alert_time": "2025-11-03 00:03:11",
+    "alert_type": "体育赛事",
+    "content": "彭水县 体育赛事：交通延误↑",
+    "impact_value": "+29%",
+    "status": 0
+  },
+  {
+    "id": 28,
+    "alert_time": "2025-11-06 07:03:11",
+    "alert_type": "高温预警",
+    "content": "璧山区 高温预警：火锅预订率↑",
+    "impact_value": "+12%",
+    "status": 0
+  },
+  {
+    "id": 29,
+    "alert_time": "2025-11-04 01:03:11",
+    "alert_type": "演唱会活动",
+    "content": "梁平区 演唱会活动：人流激增↑",
+    "impact_value": "+13%",
+    "status": 0
+  },
+  {
+    "id": 30,
+    "alert_time": "2025-11-07 09:03:11",
+    "alert_type": "高温预警",
+    "content": "合川区 高温预警：人流激增↑",
+    "impact_value": "+12%",
+    "status": 1
+  }
+]

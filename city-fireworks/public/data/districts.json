@@ -1,0 +1,496 @@
+[
+  {
+    "id": 1,
+    "name": "渝中区",
+    "area_km2": 137.97,
+    "hotpot_density": 15.14,
+    "population": 1357354,
+    "vitality_score": 89.2,
+    "center_coords": {
+      "lng": 106.5750333,
+      "lat": 29.577096
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 2,
+    "name": "江北区",
+    "area_km2": 287.1,
+    "hotpot_density": 17.55,
+    "population": 836464,
+    "vitality_score": 85.6,
+    "center_coords": {
+      "lng": 106.5638705,
+      "lat": 29.558733
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 3,
+    "name": "南岸区",
+    "area_km2": 170.34,
+    "hotpot_density": 20.55,
+    "population": 551180,
+    "vitality_score": 83.0,
+    "center_coords": {
+      "lng": 106.5275423,
+      "lat": 29.5485837
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 4,
+    "name": "沙坪坝区",
+    "area_km2": 112.36,
+    "hotpot_density": 19.32,
+    "population": 439132,
+    "vitality_score": 83.5,
+    "center_coords": {
+      "lng": 106.5392972,
+      "lat": 29.5610427
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 5,
+    "name": "九龙坡区",
+    "area_km2": 156.62,
+    "hotpot_density": 17.17,
+    "population": 1781248,
+    "vitality_score": 88.4,
+    "center_coords": {
+      "lng": 106.5912812,
+      "lat": 29.6003369
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 6,
+    "name": "大渡口区",
+    "area_km2": 184.1,
+    "hotpot_density": 24.19,
+    "population": 862208,
+    "vitality_score": 88.1,
+    "center_coords": {
+      "lng": 106.598672,
+      "lat": 29.5420538
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 7,
+    "name": "北碚区",
+    "area_km2": 213.2,
+    "hotpot_density": 23.48,
+    "population": 647381,
+    "vitality_score": 91.8,
+    "center_coords": {
+      "lng": 106.5741489,
+      "lat": 29.5488323
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 8,
+    "name": "渝北区",
+    "area_km2": 276.57,
+    "hotpot_density": 24.46,
+    "population": 1321998,
+    "vitality_score": 93.2,
+    "center_coords": {
+      "lng": 106.5542391,
+      "lat": 29.5471795
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 9,
+    "name": "巴南区",
+    "area_km2": 231.16,
+    "hotpot_density": 15.39,
+    "population": 1557644,
+    "vitality_score": 85.8,
+    "center_coords": {
+      "lng": 106.5735204,
+      "lat": 29.5640684
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 10,
+    "name": "万州区",
+    "area_km2": 2763.06,
+    "hotpot_density": 0.55,
+    "population": 275489,
+    "vitality_score": 68.1,
+    "center_coords": {
+      "lng": 106.5579941,
+      "lat": 29.6013481
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 11,
+    "name": "涪陵区",
+    "area_km2": 3623.49,
+    "hotpot_density": 1.68,
+    "population": 212141,
+    "vitality_score": 66.1,
+    "center_coords": {
+      "lng": 106.5555819,
+      "lat": 29.5292274
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 12,
+    "name": "永川区",
+    "area_km2": 2553.0,
+    "hotpot_density": 1.8,
+    "population": 460531,
+    "vitality_score": 64.0,
+    "center_coords": {
+      "lng": 106.6008213,
+      "lat": 29.5423033
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 13,
+    "name": "合川区",
+    "area_km2": 2583.91,
+    "hotpot_density": 0.78,
+    "population": 477735,
+    "vitality_score": 80.8,
+    "center_coords": {
+      "lng": 106.6005071,
+      "lat": 29.5331463
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 14,
+    "name": "江津区",
+    "area_km2": 3570.06,
+    "hotpot_density": 4.18,
+    "population": 405206,
+    "vitality_score": 79.6,
+    "center_coords": {
+      "lng": 106.5317152,
+      "lat": 29.5525399
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 15,
+    "name": "南川区",
+    "area_km2": 2901.35,
+    "hotpot_density": 4.65,
+    "population": 129880,
+    "vitality_score": 84.6,
+    "center_coords": {
+      "lng": 106.5135824,
+      "lat": 29.5408145
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 16,
+    "name": "綦江区",
+    "area_km2": 3794.03,
+    "hotpot_density": 2.37,
+    "population": 433374,
+    "vitality_score": 66.1,
+    "center_coords": {
+      "lng": 106.5568137,
+      "lat": 29.5484291
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 17,
+    "name": "大足区",
+    "area_km2": 3946.11,
+    "hotpot_density": 3.11,
+    "population": 113579,
+    "vitality_score": 78.8,
+    "center_coords": {
+      "lng": 106.5859943,
+      "lat": 29.5857074
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 18,
+    "name": "璧山区",
+    "area_km2": 3250.1,
+    "hotpot_density": 2.97,
+    "population": 319053,
+    "vitality_score": 82.9,
+    "center_coords": {
+      "lng": 106.5371385,
+      "lat": 29.5637128
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 19,
+    "name": "铜梁区",
+    "area_km2": 3134.78,
+    "hotpot_density": 4.87,
+    "population": 187730,
+    "vitality_score": 69.2,
+    "center_coords": {
+      "lng": 106.5228415,
+      "lat": 29.5828958
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 20,
+    "name": "潼南区",
+    "area_km2": 3040.08,
+    "hotpot_density": 2.53,
+    "population": 420090,
+    "vitality_score": 78.1,
+    "center_coords": {
+      "lng": 106.5284144,
+      "lat": 29.5269126
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 21,
+    "name": "荣昌区",
+    "area_km2": 3541.83,
+    "hotpot_density": 1.35,
+    "population": 465250,
+    "vitality_score": 76.3,
+    "center_coords": {
+      "lng": 106.5263881,
+      "lat": 29.5302809
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 22,
+    "name": "开州区",
+    "area_km2": 1553.2,
+    "hotpot_density": 4.06,
+    "population": 127541,
+    "vitality_score": 65.7,
+    "center_coords": {
+      "lng": 106.5581071,
+      "lat": 29.6027584
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 23,
+    "name": "梁平区",
+    "area_km2": 3251.77,
+    "hotpot_density": 3.35,
+    "population": 387262,
+    "vitality_score": 63.1,
+    "center_coords": {
+      "lng": 106.5136535,
+      "lat": 29.5803515
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 24,
+    "name": "武隆区",
+    "area_km2": 1222.62,
+    "hotpot_density": 3.38,
+    "population": 260969,
+    "vitality_score": 74.2,
+    "center_coords": {
+      "lng": 106.5613416,
+      "lat": 29.593764
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 25,
+    "name": "城口县",
+    "area_km2": 2085.45,
+    "hotpot_density": 2.06,
+    "population": 107821,
+    "vitality_score": 72.5,
+    "center_coords": {
+      "lng": 106.5800841,
+      "lat": 29.6024214
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 26,
+    "name": "丰都县",
+    "area_km2": 3033.44,
+    "hotpot_density": 1.48,
+    "population": 207335,
+    "vitality_score": 76.4,
+    "center_coords": {
+      "lng": 106.5057732,
+      "lat": 29.5604993
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 27,
+    "name": "垫江县",
+    "area_km2": 3254.42,
+    "hotpot_density": 2.68,
+    "population": 90401,
+    "vitality_score": 66.1,
+    "center_coords": {
+      "lng": 106.5772201,
+      "lat": 29.5961778
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 28,
+    "name": "忠县",
+    "area_km2": 2419.93,
+    "hotpot_density": 2.62,
+    "population": 392885,
+    "vitality_score": 65.4,
+    "center_coords": {
+      "lng": 106.508159,
+      "lat": 29.5579231
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 29,
+    "name": "云阳县",
+    "area_km2": 1879.92,
+    "hotpot_density": 3.77,
+    "population": 96717,
+    "vitality_score": 77.1,
+    "center_coords": {
+      "lng": 106.5291209,
+      "lat": 29.5428785
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 30,
+    "name": "奉节县",
+    "area_km2": 3896.03,
+    "hotpot_density": 4.05,
+    "population": 54531,
+    "vitality_score": 63.8,
+    "center_coords": {
+      "lng": 106.5512766,
+      "lat": 29.5357355
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 31,
+    "name": "巫山县",
+    "area_km2": 3259.03,
+    "hotpot_density": 4.28,
+    "population": 407354,
+    "vitality_score": 68.6,
+    "center_coords": {
+      "lng": 106.5454235,
+      "lat": 29.5915904
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 32,
+    "name": "巫溪县",
+    "area_km2": 1896.75,
+    "hotpot_density": 4.43,
+    "population": 205476,
+    "vitality_score": 75.3,
+    "center_coords": {
+      "lng": 106.5885957,
+      "lat": 29.5576473
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 33,
+    "name": "石柱土家族自治县",
+    "area_km2": 3105.81,
+    "hotpot_density": 0.78,
+    "population": 125479,
+    "vitality_score": 66.4,
+    "center_coords": {
+      "lng": 106.5598423,
+      "lat": 29.5431358
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 34,
+    "name": "秀山土家族苗族自治县",
+    "area_km2": 2854.46,
+    "hotpot_density": 4.39,
+    "population": 350443,
+    "vitality_score": 71.2,
+    "center_coords": {
+      "lng": 106.5443904,
+      "lat": 29.5433648
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 35,
+    "name": "酉阳土家族苗族自治县",
+    "area_km2": 1121.9,
+    "hotpot_density": 4.17,
+    "population": 59102,
+    "vitality_score": 61.6,
+    "center_coords": {
+      "lng": 106.5592367,
+      "lat": 29.5929339
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 36,
+    "name": "彭水苗族土家族自治县",
+    "area_km2": 1608.05,
+    "hotpot_density": 2.15,
+    "population": 109439,
+    "vitality_score": 70.9,
+    "center_coords": {
+      "lng": 106.5454102,
+      "lat": 29.5808781
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 37,
+    "name": "长寿区",
+    "area_km2": 1423.62,
+    "hotpot_density": 3.52,
+    "population": 875000,
+    "vitality_score": 72.8,
+    "center_coords": {
+      "lng": 107.0747,
+      "lat": 29.8572
+    },
+    "boundary_coords": []
+  },
+  {
+    "id": 38,
+    "name": "黔江区",
+    "area_km2": 2398.7,
+    "hotpot_density": 2.84,
+    "population": 540000,
+    "vitality_score": 68.5,
+    "center_coords": {
+      "lng": 108.7826,
+      "lat": 29.5275
+    },
+    "boundary_coords": []
+  }
+]

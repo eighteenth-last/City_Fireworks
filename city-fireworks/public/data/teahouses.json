@@ -1,0 +1,6423 @@
+[
+  {
+    "id": 1,
+    "name": "九龙坡区茶园",
+    "address": "九龙坡区317号",
+    "district_id": 5,
+    "founding_year": 2014,
+    "tea_type": "麻将,川剧",
+    "avg_price": 35.35,
+    "popularity": 554,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "麻将",
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6195241,
+      "lat": 29.6298112
+    }
+  },
+  {
+    "id": 2,
+    "name": "石柱县茶舍",
+    "address": "石柱县481号",
+    "district_id": 33,
+    "founding_year": 1961,
+    "tea_type": "茶艺,麻将,川剧",
+    "avg_price": 76.65,
+    "popularity": 832,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "茶艺",
+      "麻将",
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6090325,
+      "lat": 29.5387873
+    }
+  },
+  {
+    "id": 3,
+    "name": "彭水县茶艺馆",
+    "address": "彭水县222号",
+    "district_id": 36,
+    "founding_year": 2009,
+    "tea_type": "川剧,古筝,评书",
+    "avg_price": 60.42,
+    "popularity": 567,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "川剧",
+      "古筝",
+      "评书"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5417061,
+      "lat": 29.5462748
+    }
+  },
+  {
+    "id": 4,
+    "name": "綦江区茶舍",
+    "address": "綦江区85号",
+    "district_id": 16,
+    "founding_year": 2016,
+    "tea_type": "麻将,古筝",
+    "avg_price": 29.01,
+    "popularity": 262,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "麻将",
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5148027,
+      "lat": 29.5101195
+    }
+  },
+  {
+    "id": 5,
+    "name": "南川区老茶馆",
+    "address": "南川区466号",
+    "district_id": 15,
+    "founding_year": 1979,
+    "tea_type": "古筝,盖碗茶",
+    "avg_price": 51.27,
+    "popularity": 780,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "古筝",
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.4732758,
+      "lat": 29.5462292
+    }
+  },
+  {
+    "id": 6,
+    "name": "南川区茶舍",
+    "address": "南川区219号",
+    "district_id": 15,
+    "founding_year": 1975,
+    "tea_type": "茶艺,盖碗茶",
+    "avg_price": 59.18,
+    "popularity": 266,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "茶艺",
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5388986,
+      "lat": 29.5438476
+    }
+  },
+  {
+    "id": 7,
+    "name": "渝中区茶园",
+    "address": "渝中区141号",
+    "district_id": 1,
+    "founding_year": 1951,
+    "tea_type": "古筝,采耳,麻将",
+    "avg_price": 19.03,
+    "popularity": 347,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "古筝",
+      "采耳",
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5826015,
+      "lat": 29.5660351
+    }
+  },
+  {
+    "id": 8,
+    "name": "涪陵区老茶馆",
+    "address": "涪陵区169号",
+    "district_id": 11,
+    "founding_year": 1952,
+    "tea_type": "川剧",
+    "avg_price": 72.73,
+    "popularity": 702,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5317859,
+      "lat": 29.5563702
+    }
+  },
+  {
+    "id": 9,
+    "name": "璧山区茶艺馆",
+    "address": "璧山区198号",
+    "district_id": 18,
+    "founding_year": 1974,
+    "tea_type": "川剧",
+    "avg_price": 58.54,
+    "popularity": 422,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5301767,
+      "lat": 29.5408496
+    }
+  },
+  {
+    "id": 10,
+    "name": "丰都县老茶馆",
+    "address": "丰都县474号",
+    "district_id": 26,
+    "founding_year": 1980,
+    "tea_type": "采耳",
+    "avg_price": 42.1,
+    "popularity": 293,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.4649302,
+      "lat": 29.5517166
+    }
+  },
+  {
+    "id": 11,
+    "name": "荣昌区茶艺馆",
+    "address": "荣昌区416号",
+    "district_id": 21,
+    "founding_year": 2017,
+    "tea_type": "麻将,古筝,茶艺",
+    "avg_price": 27.91,
+    "popularity": 856,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "麻将",
+      "古筝",
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5593672,
+      "lat": 29.5261341
+    }
+  },
+  {
+    "id": 12,
+    "name": "石柱县茶园",
+    "address": "石柱县315号",
+    "district_id": 33,
+    "founding_year": 2021,
+    "tea_type": "采耳,麻将",
+    "avg_price": 51.2,
+    "popularity": 627,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "采耳",
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6036317,
+      "lat": 29.5675839
+    }
+  },
+  {
+    "id": 13,
+    "name": "云阳县老茶馆",
+    "address": "云阳县170号",
+    "district_id": 29,
+    "founding_year": 2020,
+    "tea_type": "盖碗茶,川剧,评书",
+    "avg_price": 58.52,
+    "popularity": 516,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "盖碗茶",
+      "川剧",
+      "评书"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.4931048,
+      "lat": 29.5350069
+    }
+  },
+  {
+    "id": 14,
+    "name": "渝中区茶艺馆",
+    "address": "渝中区206号",
+    "district_id": 1,
+    "founding_year": 2021,
+    "tea_type": "采耳,麻将",
+    "avg_price": 61.21,
+    "popularity": 916,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "采耳",
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5528028,
+      "lat": 29.5758472
+    }
+  },
+  {
+    "id": 15,
+    "name": "綦江区茶艺馆",
+    "address": "綦江区430号",
+    "district_id": 16,
+    "founding_year": 2006,
+    "tea_type": "采耳",
+    "avg_price": 50.96,
+    "popularity": 475,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5419994,
+      "lat": 29.523574
+    }
+  },
+  {
+    "id": 16,
+    "name": "巴南区茶园",
+    "address": "巴南区339号",
+    "district_id": 9,
+    "founding_year": 1966,
+    "tea_type": "采耳,麻将",
+    "avg_price": 23.93,
+    "popularity": 473,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "采耳",
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6015177,
+      "lat": 29.5689181
+    }
+  },
+  {
+    "id": 17,
+    "name": "南岸区茶园",
+    "address": "南岸区24号",
+    "district_id": 3,
+    "founding_year": 1955,
+    "tea_type": "古筝,川剧",
+    "avg_price": 16.26,
+    "popularity": 969,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "古筝",
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5230982,
+      "lat": 29.5396072
+    }
+  },
+  {
+    "id": 18,
+    "name": "北碚区茶舍",
+    "address": "北碚区417号",
+    "district_id": 7,
+    "founding_year": 1945,
+    "tea_type": "古筝,川剧,麻将",
+    "avg_price": 50.08,
+    "popularity": 180,
+    "is_historic": true,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "古筝",
+      "川剧",
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5447541,
+      "lat": 29.5370636
+    }
+  },
+  {
+    "id": 19,
+    "name": "奉节县茶艺馆",
+    "address": "奉节县253号",
+    "district_id": 30,
+    "founding_year": 1996,
+    "tea_type": "评书",
+    "avg_price": 32.87,
+    "popularity": 244,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "评书"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5315959,
+      "lat": 29.5296073
+    }
+  },
+  {
+    "id": 20,
+    "name": "秀山县茶园",
+    "address": "秀山县113号",
+    "district_id": 34,
+    "founding_year": 2012,
+    "tea_type": "川剧,采耳,评书",
+    "avg_price": 30.02,
+    "popularity": 528,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "川剧",
+      "采耳",
+      "评书"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5860027,
+      "lat": 29.5362493
+    }
+  },
+  {
+    "id": 21,
+    "name": "江北区茶园",
+    "address": "江北区484号",
+    "district_id": 2,
+    "founding_year": 1999,
+    "tea_type": "采耳,古筝,盖碗茶",
+    "avg_price": 60.21,
+    "popularity": 192,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "采耳",
+      "古筝",
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5597821,
+      "lat": 29.5288458
+    }
+  },
+  {
+    "id": 22,
+    "name": "彭水县茶艺馆",
+    "address": "彭水县409号",
+    "district_id": 36,
+    "founding_year": 1973,
+    "tea_type": "川剧",
+    "avg_price": 18.2,
+    "popularity": 500,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5938768,
+      "lat": 29.5467751
+    }
+  },
+  {
+    "id": 23,
+    "name": "垫江县老茶馆",
+    "address": "垫江县261号",
+    "district_id": 27,
+    "founding_year": 1999,
+    "tea_type": "茶艺",
+    "avg_price": 73.6,
+    "popularity": 471,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6066455,
+      "lat": 29.6346001
+    }
+  },
+  {
+    "id": 24,
+    "name": "璧山区茶园",
+    "address": "璧山区247号",
+    "district_id": 18,
+    "founding_year": 1960,
+    "tea_type": "茶艺",
+    "avg_price": 47.71,
+    "popularity": 96,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5702015,
+      "lat": 29.5730988
+    }
+  },
+  {
+    "id": 25,
+    "name": "南岸区茶园",
+    "address": "南岸区25号",
+    "district_id": 3,
+    "founding_year": 1980,
+    "tea_type": "麻将,盖碗茶",
+    "avg_price": 42.19,
+    "popularity": 240,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "麻将",
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5227531,
+      "lat": 29.5581455
+    }
+  },
+  {
+    "id": 26,
+    "name": "南川区茶艺馆",
+    "address": "南川区45号",
+    "district_id": 15,
+    "founding_year": 1994,
+    "tea_type": "评书,川剧",
+    "avg_price": 63.41,
+    "popularity": 743,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "评书",
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.4820986,
+      "lat": 29.5590928
+    }
+  },
+  {
+    "id": 27,
+    "name": "铜梁区茶舍",
+    "address": "铜梁区403号",
+    "district_id": 19,
+    "founding_year": 1982,
+    "tea_type": "茶艺",
+    "avg_price": 61.97,
+    "popularity": 52,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5017295,
+      "lat": 29.5581107
+    }
+  },
+  {
+    "id": 28,
+    "name": "綦江区茶艺馆",
+    "address": "綦江区310号",
+    "district_id": 16,
+    "founding_year": 1973,
+    "tea_type": "麻将",
+    "avg_price": 19.58,
+    "popularity": 499,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5485027,
+      "lat": 29.5656405
+    }
+  },
+  {
+    "id": 29,
+    "name": "梁平区茶园",
+    "address": "梁平区297号",
+    "district_id": 23,
+    "founding_year": 1989,
+    "tea_type": "茶艺",
+    "avg_price": 63.84,
+    "popularity": 651,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.4772626,
+      "lat": 29.5831344
+    }
+  },
+  {
+    "id": 30,
+    "name": "云阳县茶艺馆",
+    "address": "云阳县466号",
+    "district_id": 29,
+    "founding_year": 1902,
+    "tea_type": "采耳,古筝",
+    "avg_price": 21.09,
+    "popularity": 253,
+    "is_historic": true,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "采耳",
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.566731,
+      "lat": 29.5219364
+    }
+  },
+  {
+    "id": 31,
+    "name": "九龙坡区茶园",
+    "address": "九龙坡区460号",
+    "district_id": 5,
+    "founding_year": 1960,
+    "tea_type": "古筝",
+    "avg_price": 71.59,
+    "popularity": 204,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.578978,
+      "lat": 29.5836052
+    }
+  },
+  {
+    "id": 32,
+    "name": "北碚区茶艺馆",
+    "address": "北碚区270号",
+    "district_id": 7,
+    "founding_year": 1941,
+    "tea_type": "评书",
+    "avg_price": 40.88,
+    "popularity": 363,
+    "is_historic": true,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "评书"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5380116,
+      "lat": 29.5436781
+    }
+  },
+  {
+    "id": 33,
+    "name": "丰都县茶艺馆",
+    "address": "丰都县272号",
+    "district_id": 26,
+    "founding_year": 1976,
+    "tea_type": "采耳,茶艺",
+    "avg_price": 43.07,
+    "popularity": 731,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "采耳",
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.4691347,
+      "lat": 29.5219914
+    }
+  },
+  {
+    "id": 34,
+    "name": "武隆区茶舍",
+    "address": "武隆区253号",
+    "district_id": 24,
+    "founding_year": 1973,
+    "tea_type": "古筝",
+    "avg_price": 25.35,
+    "popularity": 484,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6102296,
+      "lat": 29.5572681
+    }
+  },
+  {
+    "id": 35,
+    "name": "沙坪坝区茶舍",
+    "address": "沙坪坝区88号",
+    "district_id": 4,
+    "founding_year": 2005,
+    "tea_type": "评书,川剧",
+    "avg_price": 74.25,
+    "popularity": 697,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "评书",
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5512728,
+      "lat": 29.5428672
+    }
+  },
+  {
+    "id": 36,
+    "name": "沙坪坝区茶园",
+    "address": "沙坪坝区486号",
+    "district_id": 4,
+    "founding_year": 1933,
+    "tea_type": "麻将,古筝",
+    "avg_price": 77.83,
+    "popularity": 217,
+    "is_historic": true,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "麻将",
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5376294,
+      "lat": 29.5524771
+    }
+  },
+  {
+    "id": 37,
+    "name": "丰都县茶园",
+    "address": "丰都县67号",
+    "district_id": 26,
+    "founding_year": 1979,
+    "tea_type": "评书",
+    "avg_price": 67.32,
+    "popularity": 617,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "评书"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.550201,
+      "lat": 29.5919128
+    }
+  },
+  {
+    "id": 38,
+    "name": "江津区茶艺馆",
+    "address": "江津区47号",
+    "district_id": 14,
+    "founding_year": 1918,
+    "tea_type": "麻将,茶艺,采耳",
+    "avg_price": 58.04,
+    "popularity": 993,
+    "is_historic": true,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "麻将",
+      "茶艺",
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5121083,
+      "lat": 29.5803729
+    }
+  },
+  {
+    "id": 39,
+    "name": "沙坪坝区老茶馆",
+    "address": "沙坪坝区77号",
+    "district_id": 4,
+    "founding_year": 2006,
+    "tea_type": "麻将,评书",
+    "avg_price": 34.36,
+    "popularity": 647,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "麻将",
+      "评书"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5556863,
+      "lat": 29.5448441
+    }
+  },
+  {
+    "id": 40,
+    "name": "江津区茶舍",
+    "address": "江津区249号",
+    "district_id": 14,
+    "founding_year": 1920,
+    "tea_type": "茶艺,盖碗茶",
+    "avg_price": 38.03,
+    "popularity": 539,
+    "is_historic": true,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "茶艺",
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5405161,
+      "lat": 29.5877516
+    }
+  },
+  {
+    "id": 41,
+    "name": "奉节县茶艺馆",
+    "address": "奉节县68号",
+    "district_id": 30,
+    "founding_year": 1972,
+    "tea_type": "茶艺",
+    "avg_price": 25.85,
+    "popularity": 27,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5384584,
+      "lat": 29.524617
+    }
+  },
+  {
+    "id": 42,
+    "name": "渝中区茶园",
+    "address": "渝中区100号",
+    "district_id": 1,
+    "founding_year": 2006,
+    "tea_type": "古筝,川剧",
+    "avg_price": 23.07,
+    "popularity": 624,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "古筝",
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5572938,
+      "lat": 29.5565224
+    }
+  },
+  {
+    "id": 43,
+    "name": "涪陵区茶艺馆",
+    "address": "涪陵区276号",
+    "district_id": 11,
+    "founding_year": 1958,
+    "tea_type": "古筝",
+    "avg_price": 54.63,
+    "popularity": 358,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5527931,
+      "lat": 29.5579177
+    }
+  },
+  {
+    "id": 44,
+    "name": "綦江区茶舍",
+    "address": "綦江区343号",
+    "district_id": 16,
+    "founding_year": 2000,
+    "tea_type": "茶艺",
+    "avg_price": 41.36,
+    "popularity": 492,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.564903,
+      "lat": 29.516688
+    }
+  },
+  {
+    "id": 45,
+    "name": "秀山县茶艺馆",
+    "address": "秀山县262号",
+    "district_id": 34,
+    "founding_year": 1999,
+    "tea_type": "川剧",
+    "avg_price": 36.98,
+    "popularity": 248,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.523379,
+      "lat": 29.5589968
+    }
+  },
+  {
+    "id": 46,
+    "name": "铜梁区茶舍",
+    "address": "铜梁区295号",
+    "district_id": 19,
+    "founding_year": 1986,
+    "tea_type": "川剧,茶艺",
+    "avg_price": 56.65,
+    "popularity": 720,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "川剧",
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.4858547,
+      "lat": 29.5949038
+    }
+  },
+  {
+    "id": 47,
+    "name": "渝北区老茶馆",
+    "address": "渝北区332号",
+    "district_id": 8,
+    "founding_year": 2004,
+    "tea_type": "盖碗茶,麻将",
+    "avg_price": 30.14,
+    "popularity": 539,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "盖碗茶",
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5823836,
+      "lat": 29.5585061
+    }
+  },
+  {
+    "id": 48,
+    "name": "涪陵区茶舍",
+    "address": "涪陵区454号",
+    "district_id": 11,
+    "founding_year": 2006,
+    "tea_type": "采耳,川剧",
+    "avg_price": 30.41,
+    "popularity": 459,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "采耳",
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5607194,
+      "lat": 29.5018562
+    }
+  },
+  {
+    "id": 49,
+    "name": "江津区茶艺馆",
+    "address": "江津区88号",
+    "district_id": 14,
+    "founding_year": 1955,
+    "tea_type": "川剧,采耳,古筝",
+    "avg_price": 55.89,
+    "popularity": 309,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "川剧",
+      "采耳",
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5703959,
+      "lat": 29.5275096
+    }
+  },
+  {
+    "id": 50,
+    "name": "涪陵区老茶馆",
+    "address": "涪陵区283号",
+    "district_id": 11,
+    "founding_year": 2012,
+    "tea_type": "评书,古筝",
+    "avg_price": 66.56,
+    "popularity": 609,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "评书",
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5622815,
+      "lat": 29.5379964
+    }
+  },
+  {
+    "id": 51,
+    "name": "九龙坡区老茶馆",
+    "address": "九龙坡区335号",
+    "district_id": 5,
+    "founding_year": 1966,
+    "tea_type": "川剧,古筝",
+    "avg_price": 25.89,
+    "popularity": 682,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "川剧",
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5686504,
+      "lat": 29.6166763
+    }
+  },
+  {
+    "id": 52,
+    "name": "丰都县茶艺馆",
+    "address": "丰都县424号",
+    "district_id": 26,
+    "founding_year": 1980,
+    "tea_type": "采耳,川剧",
+    "avg_price": 62.9,
+    "popularity": 955,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "采耳",
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5515983,
+      "lat": 29.5389095
+    }
+  },
+  {
+    "id": 53,
+    "name": "秀山县茶艺馆",
+    "address": "秀山县435号",
+    "district_id": 34,
+    "founding_year": 1958,
+    "tea_type": "川剧,采耳",
+    "avg_price": 46.74,
+    "popularity": 187,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "川剧",
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5738722,
+      "lat": 29.579737
+    }
+  },
+  {
+    "id": 54,
+    "name": "沙坪坝区茶艺馆",
+    "address": "沙坪坝区366号",
+    "district_id": 4,
+    "founding_year": 2003,
+    "tea_type": "评书,盖碗茶",
+    "avg_price": 18.61,
+    "popularity": 39,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "评书",
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.539157,
+      "lat": 29.5555985
+    }
+  },
+  {
+    "id": 55,
+    "name": "万州区茶舍",
+    "address": "万州区60号",
+    "district_id": 10,
+    "founding_year": 1992,
+    "tea_type": "麻将,古筝",
+    "avg_price": 60.52,
+    "popularity": 673,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "麻将",
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5680562,
+      "lat": 29.607293
+    }
+  },
+  {
+    "id": 56,
+    "name": "南川区茶园",
+    "address": "南川区497号",
+    "district_id": 15,
+    "founding_year": 1952,
+    "tea_type": "古筝,评书,采耳",
+    "avg_price": 17.4,
+    "popularity": 807,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "古筝",
+      "评书",
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5000876,
+      "lat": 29.5339308
+    }
+  },
+  {
+    "id": 57,
+    "name": "北碚区茶舍",
+    "address": "北碚区112号",
+    "district_id": 7,
+    "founding_year": 1962,
+    "tea_type": "采耳",
+    "avg_price": 60.47,
+    "popularity": 433,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5259164,
+      "lat": 29.5372129
+    }
+  },
+  {
+    "id": 58,
+    "name": "石柱县茶舍",
+    "address": "石柱县101号",
+    "district_id": 33,
+    "founding_year": 1953,
+    "tea_type": "麻将",
+    "avg_price": 32.71,
+    "popularity": 958,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5571892,
+      "lat": 29.5339686
+    }
+  },
+  {
+    "id": 59,
+    "name": "璧山区老茶馆",
+    "address": "璧山区146号",
+    "district_id": 18,
+    "founding_year": 1956,
+    "tea_type": "川剧",
+    "avg_price": 78.76,
+    "popularity": 832,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5251916,
+      "lat": 29.5369374
+    }
+  },
+  {
+    "id": 60,
+    "name": "江津区茶舍",
+    "address": "江津区187号",
+    "district_id": 14,
+    "founding_year": 1960,
+    "tea_type": "古筝",
+    "avg_price": 35.49,
+    "popularity": 196,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5801401,
+      "lat": 29.5798617
+    }
+  },
+  {
+    "id": 61,
+    "name": "忠县茶艺馆",
+    "address": "忠县19号",
+    "district_id": 28,
+    "founding_year": 2014,
+    "tea_type": "麻将,古筝",
+    "avg_price": 37.97,
+    "popularity": 849,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "麻将",
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5090459,
+      "lat": 29.5930477
+    }
+  },
+  {
+    "id": 62,
+    "name": "丰都县茶园",
+    "address": "丰都县444号",
+    "district_id": 26,
+    "founding_year": 1998,
+    "tea_type": "评书,盖碗茶,采耳",
+    "avg_price": 17.47,
+    "popularity": 270,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "评书",
+      "盖碗茶",
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5234163,
+      "lat": 29.5815359
+    }
+  },
+  {
+    "id": 63,
+    "name": "渝北区老茶馆",
+    "address": "渝北区165号",
+    "district_id": 8,
+    "founding_year": 2010,
+    "tea_type": "川剧,采耳,茶艺",
+    "avg_price": 22.3,
+    "popularity": 98,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "川剧",
+      "采耳",
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5703339,
+      "lat": 29.5351561
+    }
+  },
+  {
+    "id": 64,
+    "name": "潼南区茶舍",
+    "address": "潼南区288号",
+    "district_id": 20,
+    "founding_year": 1952,
+    "tea_type": "采耳,茶艺,评书",
+    "avg_price": 22.77,
+    "popularity": 683,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "采耳",
+      "茶艺",
+      "评书"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5364378,
+      "lat": 29.5485908
+    }
+  },
+  {
+    "id": 65,
+    "name": "酉阳县茶园",
+    "address": "酉阳县144号",
+    "district_id": 35,
+    "founding_year": 2012,
+    "tea_type": "采耳",
+    "avg_price": 25.53,
+    "popularity": 351,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5805236,
+      "lat": 29.6138161
+    }
+  },
+  {
+    "id": 66,
+    "name": "江北区老茶馆",
+    "address": "江北区272号",
+    "district_id": 2,
+    "founding_year": 2004,
+    "tea_type": "川剧",
+    "avg_price": 36.4,
+    "popularity": 651,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.564767,
+      "lat": 29.5541426
+    }
+  },
+  {
+    "id": 67,
+    "name": "巴南区茶园",
+    "address": "巴南区247号",
+    "district_id": 9,
+    "founding_year": 2018,
+    "tea_type": "茶艺,评书",
+    "avg_price": 79.91,
+    "popularity": 143,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "茶艺",
+      "评书"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5975729,
+      "lat": 29.5905105
+    }
+  },
+  {
+    "id": 68,
+    "name": "永川区茶艺馆",
+    "address": "永川区475号",
+    "district_id": 12,
+    "founding_year": 2006,
+    "tea_type": "盖碗茶",
+    "avg_price": 45.26,
+    "popularity": 909,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6421687,
+      "lat": 29.5295007
+    }
+  },
+  {
+    "id": 69,
+    "name": "九龙坡区茶园",
+    "address": "九龙坡区350号",
+    "district_id": 5,
+    "founding_year": 2014,
+    "tea_type": "古筝",
+    "avg_price": 65.19,
+    "popularity": 487,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5642131,
+      "lat": 29.5787461
+    }
+  },
+  {
+    "id": 70,
+    "name": "江北区老茶馆",
+    "address": "江北区436号",
+    "district_id": 2,
+    "founding_year": 1998,
+    "tea_type": "茶艺,麻将,川剧",
+    "avg_price": 16.74,
+    "popularity": 143,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "茶艺",
+      "麻将",
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5670425,
+      "lat": 29.5306236
+    }
+  },
+  {
+    "id": 71,
+    "name": "南岸区茶园",
+    "address": "南岸区425号",
+    "district_id": 3,
+    "founding_year": 1989,
+    "tea_type": "茶艺,麻将",
+    "avg_price": 52.25,
+    "popularity": 342,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "茶艺",
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5762684,
+      "lat": 29.5156557
+    }
+  },
+  {
+    "id": 72,
+    "name": "江北区老茶馆",
+    "address": "江北区168号",
+    "district_id": 2,
+    "founding_year": 2024,
+    "tea_type": "采耳,古筝,川剧",
+    "avg_price": 28.52,
+    "popularity": 613,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "采耳",
+      "古筝",
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5419358,
+      "lat": 29.5800251
+    }
+  },
+  {
+    "id": 73,
+    "name": "永川区茶艺馆",
+    "address": "永川区492号",
+    "district_id": 12,
+    "founding_year": 1957,
+    "tea_type": "盖碗茶",
+    "avg_price": 37.9,
+    "popularity": 394,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6359206,
+      "lat": 29.5279714
+    }
+  },
+  {
+    "id": 74,
+    "name": "万州区老茶馆",
+    "address": "万州区340号",
+    "district_id": 10,
+    "founding_year": 1972,
+    "tea_type": "盖碗茶,评书,古筝",
+    "avg_price": 18.95,
+    "popularity": 266,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "盖碗茶",
+      "评书",
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5674543,
+      "lat": 29.6049377
+    }
+  },
+  {
+    "id": 75,
+    "name": "酉阳县茶舍",
+    "address": "酉阳县149号",
+    "district_id": 35,
+    "founding_year": 2013,
+    "tea_type": "评书,古筝",
+    "avg_price": 33.98,
+    "popularity": 684,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "评书",
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5244081,
+      "lat": 29.5745638
+    }
+  },
+  {
+    "id": 76,
+    "name": "北碚区老茶馆",
+    "address": "北碚区70号",
+    "district_id": 7,
+    "founding_year": 2001,
+    "tea_type": "采耳,川剧,茶艺",
+    "avg_price": 17.92,
+    "popularity": 685,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "采耳",
+      "川剧",
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5736921,
+      "lat": 29.5326719
+    }
+  },
+  {
+    "id": 77,
+    "name": "丰都县茶艺馆",
+    "address": "丰都县39号",
+    "district_id": 26,
+    "founding_year": 1999,
+    "tea_type": "盖碗茶",
+    "avg_price": 23.07,
+    "popularity": 104,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.4694377,
+      "lat": 29.5598358
+    }
+  },
+  {
+    "id": 78,
+    "name": "城口县茶舍",
+    "address": "城口县225号",
+    "district_id": 25,
+    "founding_year": 1997,
+    "tea_type": "采耳,评书,古筝",
+    "avg_price": 31.27,
+    "popularity": 491,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "采耳",
+      "评书",
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5719388,
+      "lat": 29.6191635
+    }
+  },
+  {
+    "id": 79,
+    "name": "江津区茶园",
+    "address": "江津区310号",
+    "district_id": 14,
+    "founding_year": 2002,
+    "tea_type": "麻将,茶艺",
+    "avg_price": 60.6,
+    "popularity": 425,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "麻将",
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5423584,
+      "lat": 29.5483328
+    }
+  },
+  {
+    "id": 80,
+    "name": "梁平区茶园",
+    "address": "梁平区444号",
+    "district_id": 23,
+    "founding_year": 1985,
+    "tea_type": "川剧",
+    "avg_price": 23.81,
+    "popularity": 914,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5437444,
+      "lat": 29.606215
+    }
+  },
+  {
+    "id": 81,
+    "name": "丰都县茶舍",
+    "address": "丰都县248号",
+    "district_id": 26,
+    "founding_year": 1922,
+    "tea_type": "茶艺",
+    "avg_price": 35.22,
+    "popularity": 793,
+    "is_historic": true,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.4993817,
+      "lat": 29.5475741
+    }
+  },
+  {
+    "id": 82,
+    "name": "渝北区茶园",
+    "address": "渝北区417号",
+    "district_id": 8,
+    "founding_year": 1995,
+    "tea_type": "麻将,评书,茶艺",
+    "avg_price": 32.13,
+    "popularity": 132,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "麻将",
+      "评书",
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5824992,
+      "lat": 29.539343
+    }
+  },
+  {
+    "id": 83,
+    "name": "合川区茶园",
+    "address": "合川区106号",
+    "district_id": 13,
+    "founding_year": 1986,
+    "tea_type": "盖碗茶,评书,川剧",
+    "avg_price": 29.47,
+    "popularity": 312,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "盖碗茶",
+      "评书",
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5859173,
+      "lat": 29.5515138
+    }
+  },
+  {
+    "id": 84,
+    "name": "城口县茶舍",
+    "address": "城口县120号",
+    "district_id": 25,
+    "founding_year": 1970,
+    "tea_type": "盖碗茶,评书",
+    "avg_price": 20.21,
+    "popularity": 494,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "盖碗茶",
+      "评书"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5617513,
+      "lat": 29.6101308
+    }
+  },
+  {
+    "id": 85,
+    "name": "璧山区老茶馆",
+    "address": "璧山区479号",
+    "district_id": 18,
+    "founding_year": 1991,
+    "tea_type": "川剧",
+    "avg_price": 58.48,
+    "popularity": 392,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5649265,
+      "lat": 29.5396925
+    }
+  },
+  {
+    "id": 86,
+    "name": "綦江区茶园",
+    "address": "綦江区198号",
+    "district_id": 16,
+    "founding_year": 2010,
+    "tea_type": "古筝,川剧",
+    "avg_price": 76.64,
+    "popularity": 878,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "古筝",
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5538947,
+      "lat": 29.5260058
+    }
+  },
+  {
+    "id": 87,
+    "name": "江北区茶园",
+    "address": "江北区178号",
+    "district_id": 2,
+    "founding_year": 1956,
+    "tea_type": "川剧,茶艺,麻将",
+    "avg_price": 75.79,
+    "popularity": 719,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "川剧",
+      "茶艺",
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.530672,
+      "lat": 29.5872375
+    }
+  },
+  {
+    "id": 88,
+    "name": "巴南区老茶馆",
+    "address": "巴南区100号",
+    "district_id": 9,
+    "founding_year": 1967,
+    "tea_type": "茶艺,采耳,盖碗茶",
+    "avg_price": 20.68,
+    "popularity": 728,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "茶艺",
+      "采耳",
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6066978,
+      "lat": 29.579268
+    }
+  },
+  {
+    "id": 89,
+    "name": "梁平区茶艺馆",
+    "address": "梁平区10号",
+    "district_id": 23,
+    "founding_year": 2022,
+    "tea_type": "评书,川剧,盖碗茶",
+    "avg_price": 65.53,
+    "popularity": 30,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "评书",
+      "川剧",
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5044957,
+      "lat": 29.5859069
+    }
+  },
+  {
+    "id": 90,
+    "name": "彭水县茶园",
+    "address": "彭水县64号",
+    "district_id": 36,
+    "founding_year": 2017,
+    "tea_type": "古筝,评书",
+    "avg_price": 77.88,
+    "popularity": 24,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "古筝",
+      "评书"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5243288,
+      "lat": 29.5704708
+    }
+  },
+  {
+    "id": 91,
+    "name": "忠县老茶馆",
+    "address": "忠县268号",
+    "district_id": 28,
+    "founding_year": 1943,
+    "tea_type": "川剧,麻将,评书",
+    "avg_price": 47.57,
+    "popularity": 57,
+    "is_historic": true,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "川剧",
+      "麻将",
+      "评书"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.4605483,
+      "lat": 29.5783216
+    }
+  },
+  {
+    "id": 92,
+    "name": "彭水县茶园",
+    "address": "彭水县355号",
+    "district_id": 36,
+    "founding_year": 1968,
+    "tea_type": "茶艺",
+    "avg_price": 59.77,
+    "popularity": 57,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5238203,
+      "lat": 29.6035798
+    }
+  },
+  {
+    "id": 93,
+    "name": "綦江区茶园",
+    "address": "綦江区496号",
+    "district_id": 16,
+    "founding_year": 2002,
+    "tea_type": "茶艺,评书,盖碗茶",
+    "avg_price": 57.9,
+    "popularity": 420,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "茶艺",
+      "评书",
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5511652,
+      "lat": 29.5145981
+    }
+  },
+  {
+    "id": 94,
+    "name": "武隆区茶艺馆",
+    "address": "武隆区333号",
+    "district_id": 24,
+    "founding_year": 1986,
+    "tea_type": "评书",
+    "avg_price": 49.01,
+    "popularity": 662,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "评书"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5639314,
+      "lat": 29.6186104
+    }
+  },
+  {
+    "id": 95,
+    "name": "巴南区茶园",
+    "address": "巴南区433号",
+    "district_id": 9,
+    "founding_year": 1967,
+    "tea_type": "麻将,古筝,茶艺",
+    "avg_price": 59.44,
+    "popularity": 582,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "麻将",
+      "古筝",
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5789073,
+      "lat": 29.5809263
+    }
+  },
+  {
+    "id": 96,
+    "name": "万州区老茶馆",
+    "address": "万州区199号",
+    "district_id": 10,
+    "founding_year": 2008,
+    "tea_type": "采耳,古筝,盖碗茶",
+    "avg_price": 76.29,
+    "popularity": 544,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "采耳",
+      "古筝",
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5885976,
+      "lat": 29.565578
+    }
+  },
+  {
+    "id": 97,
+    "name": "石柱县茶艺馆",
+    "address": "石柱县167号",
+    "district_id": 33,
+    "founding_year": 1995,
+    "tea_type": "古筝",
+    "avg_price": 63.18,
+    "popularity": 544,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.552962,
+      "lat": 29.5706701
+    }
+  },
+  {
+    "id": 98,
+    "name": "璧山区茶艺馆",
+    "address": "璧山区51号",
+    "district_id": 18,
+    "founding_year": 2007,
+    "tea_type": "古筝,茶艺",
+    "avg_price": 58.86,
+    "popularity": 574,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "古筝",
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5856876,
+      "lat": 29.5563189
+    }
+  },
+  {
+    "id": 99,
+    "name": "秀山县老茶馆",
+    "address": "秀山县56号",
+    "district_id": 34,
+    "founding_year": 1986,
+    "tea_type": "茶艺,盖碗茶",
+    "avg_price": 48.04,
+    "popularity": 489,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "茶艺",
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5773796,
+      "lat": 29.5081083
+    }
+  },
+  {
+    "id": 100,
+    "name": "万州区老茶馆",
+    "address": "万州区48号",
+    "district_id": 10,
+    "founding_year": 1992,
+    "tea_type": "评书,盖碗茶",
+    "avg_price": 50.01,
+    "popularity": 208,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "评书",
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5592023,
+      "lat": 29.6207559
+    }
+  },
+  {
+    "id": 101,
+    "name": "潼南区老茶馆",
+    "address": "潼南区234号",
+    "district_id": 20,
+    "founding_year": 1993,
+    "tea_type": "川剧,茶艺,采耳",
+    "avg_price": 29.33,
+    "popularity": 174,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "川剧",
+      "茶艺",
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5132369,
+      "lat": 29.4945788
+    }
+  },
+  {
+    "id": 102,
+    "name": "沙坪坝区茶园",
+    "address": "沙坪坝区219号",
+    "district_id": 4,
+    "founding_year": 1942,
+    "tea_type": "川剧,茶艺",
+    "avg_price": 68.51,
+    "popularity": 529,
+    "is_historic": true,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "川剧",
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5565426,
+      "lat": 29.57845
+    }
+  },
+  {
+    "id": 103,
+    "name": "九龙坡区茶艺馆",
+    "address": "九龙坡区281号",
+    "district_id": 5,
+    "founding_year": 1958,
+    "tea_type": "古筝",
+    "avg_price": 56.28,
+    "popularity": 60,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5891807,
+      "lat": 29.6153624
+    }
+  },
+  {
+    "id": 104,
+    "name": "永川区茶舍",
+    "address": "永川区478号",
+    "district_id": 12,
+    "founding_year": 1981,
+    "tea_type": "麻将,采耳",
+    "avg_price": 49.91,
+    "popularity": 313,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "麻将",
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6400426,
+      "lat": 29.5394171
+    }
+  },
+  {
+    "id": 105,
+    "name": "巫溪县老茶馆",
+    "address": "巫溪县229号",
+    "district_id": 32,
+    "founding_year": 2017,
+    "tea_type": "采耳,麻将",
+    "avg_price": 22.62,
+    "popularity": 640,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "采耳",
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.559987,
+      "lat": 29.5657586
+    }
+  },
+  {
+    "id": 106,
+    "name": "万州区茶艺馆",
+    "address": "万州区273号",
+    "district_id": 10,
+    "founding_year": 1960,
+    "tea_type": "麻将",
+    "avg_price": 79.89,
+    "popularity": 801,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5417758,
+      "lat": 29.6136198
+    }
+  },
+  {
+    "id": 107,
+    "name": "江津区茶园",
+    "address": "江津区211号",
+    "district_id": 14,
+    "founding_year": 1900,
+    "tea_type": "川剧,盖碗茶",
+    "avg_price": 51.32,
+    "popularity": 189,
+    "is_historic": true,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "川剧",
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.4890189,
+      "lat": 29.5138921
+    }
+  },
+  {
+    "id": 108,
+    "name": "涪陵区老茶馆",
+    "address": "涪陵区185号",
+    "district_id": 11,
+    "founding_year": 1947,
+    "tea_type": "古筝",
+    "avg_price": 59.42,
+    "popularity": 760,
+    "is_historic": true,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5179291,
+      "lat": 29.5255225
+    }
+  },
+  {
+    "id": 109,
+    "name": "万州区茶艺馆",
+    "address": "万州区337号",
+    "district_id": 10,
+    "founding_year": 2022,
+    "tea_type": "川剧,麻将",
+    "avg_price": 48.99,
+    "popularity": 676,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "川剧",
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5505813,
+      "lat": 29.5693697
+    }
+  },
+  {
+    "id": 110,
+    "name": "城口县茶园",
+    "address": "城口县228号",
+    "district_id": 25,
+    "founding_year": 1960,
+    "tea_type": "盖碗茶",
+    "avg_price": 51.78,
+    "popularity": 174,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5920793,
+      "lat": 29.5854105
+    }
+  },
+  {
+    "id": 111,
+    "name": "沙坪坝区茶艺馆",
+    "address": "沙坪坝区10号",
+    "district_id": 4,
+    "founding_year": 2009,
+    "tea_type": "古筝,川剧",
+    "avg_price": 20.58,
+    "popularity": 357,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "古筝",
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5212856,
+      "lat": 29.5979117
+    }
+  },
+  {
+    "id": 112,
+    "name": "万州区茶舍",
+    "address": "万州区414号",
+    "district_id": 10,
+    "founding_year": 1978,
+    "tea_type": "古筝,茶艺",
+    "avg_price": 57.93,
+    "popularity": 365,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "古筝",
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5412567,
+      "lat": 29.6298778
+    }
+  },
+  {
+    "id": 113,
+    "name": "北碚区茶园",
+    "address": "北碚区178号",
+    "district_id": 7,
+    "founding_year": 2021,
+    "tea_type": "盖碗茶,古筝",
+    "avg_price": 53.04,
+    "popularity": 669,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "盖碗茶",
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.607975,
+      "lat": 29.5362441
+    }
+  },
+  {
+    "id": 114,
+    "name": "石柱县茶园",
+    "address": "石柱县249号",
+    "district_id": 33,
+    "founding_year": 2014,
+    "tea_type": "古筝",
+    "avg_price": 44.65,
+    "popularity": 587,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5673191,
+      "lat": 29.5653226
+    }
+  },
+  {
+    "id": 115,
+    "name": "丰都县茶艺馆",
+    "address": "丰都县432号",
+    "district_id": 26,
+    "founding_year": 1975,
+    "tea_type": "古筝,麻将,盖碗茶",
+    "avg_price": 60.53,
+    "popularity": 179,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "古筝",
+      "麻将",
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5502695,
+      "lat": 29.5971881
+    }
+  },
+  {
+    "id": 116,
+    "name": "合川区茶艺馆",
+    "address": "合川区7号",
+    "district_id": 13,
+    "founding_year": 2013,
+    "tea_type": "古筝",
+    "avg_price": 52.19,
+    "popularity": 57,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5612398,
+      "lat": 29.5163334
+    }
+  },
+  {
+    "id": 117,
+    "name": "开州区茶舍",
+    "address": "开州区386号",
+    "district_id": 22,
+    "founding_year": 2010,
+    "tea_type": "古筝,茶艺,采耳",
+    "avg_price": 56.76,
+    "popularity": 518,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "古筝",
+      "茶艺",
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5995445,
+      "lat": 29.5859166
+    }
+  },
+  {
+    "id": 118,
+    "name": "忠县老茶馆",
+    "address": "忠县272号",
+    "district_id": 28,
+    "founding_year": 1955,
+    "tea_type": "古筝",
+    "avg_price": 53.66,
+    "popularity": 205,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.4854058,
+      "lat": 29.5181588
+    }
+  },
+  {
+    "id": 119,
+    "name": "渝中区茶艺馆",
+    "address": "渝中区19号",
+    "district_id": 1,
+    "founding_year": 1958,
+    "tea_type": "盖碗茶,麻将",
+    "avg_price": 65.1,
+    "popularity": 786,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "盖碗茶",
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5695836,
+      "lat": 29.5447957
+    }
+  },
+  {
+    "id": 120,
+    "name": "忠县老茶馆",
+    "address": "忠县293号",
+    "district_id": 28,
+    "founding_year": 2024,
+    "tea_type": "采耳,盖碗茶,麻将",
+    "avg_price": 46.26,
+    "popularity": 296,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "采耳",
+      "盖碗茶",
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.4773097,
+      "lat": 29.5779664
+    }
+  },
+  {
+    "id": 121,
+    "name": "铜梁区茶园",
+    "address": "铜梁区459号",
+    "district_id": 19,
+    "founding_year": 1956,
+    "tea_type": "川剧,麻将",
+    "avg_price": 72.14,
+    "popularity": 581,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "川剧",
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5076369,
+      "lat": 29.6204099
+    }
+  },
+  {
+    "id": 122,
+    "name": "彭水县茶艺馆",
+    "address": "彭水县446号",
+    "district_id": 36,
+    "founding_year": 2018,
+    "tea_type": "古筝",
+    "avg_price": 59.91,
+    "popularity": 59,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.4976393,
+      "lat": 29.5610082
+    }
+  },
+  {
+    "id": 123,
+    "name": "丰都县茶园",
+    "address": "丰都县242号",
+    "district_id": 26,
+    "founding_year": 1973,
+    "tea_type": "麻将,采耳",
+    "avg_price": 15.46,
+    "popularity": 217,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "麻将",
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5303303,
+      "lat": 29.5525709
+    }
+  },
+  {
+    "id": 124,
+    "name": "沙坪坝区茶舍",
+    "address": "沙坪坝区216号",
+    "district_id": 4,
+    "founding_year": 1986,
+    "tea_type": "评书,采耳,盖碗茶",
+    "avg_price": 44.67,
+    "popularity": 165,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "评书",
+      "采耳",
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5622938,
+      "lat": 29.5775233
+    }
+  },
+  {
+    "id": 125,
+    "name": "丰都县老茶馆",
+    "address": "丰都县237号",
+    "district_id": 26,
+    "founding_year": 1966,
+    "tea_type": "采耳",
+    "avg_price": 28.26,
+    "popularity": 846,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.54017,
+      "lat": 29.555742
+    }
+  },
+  {
+    "id": 126,
+    "name": "云阳县茶艺馆",
+    "address": "云阳县264号",
+    "district_id": 29,
+    "founding_year": 1984,
+    "tea_type": "茶艺",
+    "avg_price": 40.46,
+    "popularity": 40,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5737171,
+      "lat": 29.5709444
+    }
+  },
+  {
+    "id": 127,
+    "name": "彭水县茶园",
+    "address": "彭水县223号",
+    "district_id": 36,
+    "founding_year": 1923,
+    "tea_type": "采耳,盖碗茶",
+    "avg_price": 44.15,
+    "popularity": 246,
+    "is_historic": true,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "采耳",
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5415402,
+      "lat": 29.5945581
+    }
+  },
+  {
+    "id": 128,
+    "name": "丰都县茶艺馆",
+    "address": "丰都县364号",
+    "district_id": 26,
+    "founding_year": 2002,
+    "tea_type": "茶艺",
+    "avg_price": 36.5,
+    "popularity": 548,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5437202,
+      "lat": 29.5888949
+    }
+  },
+  {
+    "id": 129,
+    "name": "渝北区老茶馆",
+    "address": "渝北区137号",
+    "district_id": 8,
+    "founding_year": 1984,
+    "tea_type": "评书",
+    "avg_price": 42.32,
+    "popularity": 991,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "评书"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.521539,
+      "lat": 29.5557341
+    }
+  },
+  {
+    "id": 130,
+    "name": "南岸区茶艺馆",
+    "address": "南岸区21号",
+    "district_id": 3,
+    "founding_year": 1928,
+    "tea_type": "川剧,古筝,评书",
+    "avg_price": 26.57,
+    "popularity": 999,
+    "is_historic": true,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "川剧",
+      "古筝",
+      "评书"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5591575,
+      "lat": 29.5221985
+    }
+  },
+  {
+    "id": 131,
+    "name": "北碚区茶舍",
+    "address": "北碚区330号",
+    "district_id": 7,
+    "founding_year": 2012,
+    "tea_type": "评书,盖碗茶,茶艺",
+    "avg_price": 33.08,
+    "popularity": 64,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "评书",
+      "盖碗茶",
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5390737,
+      "lat": 29.5869024
+    }
+  },
+  {
+    "id": 132,
+    "name": "南川区茶舍",
+    "address": "南川区438号",
+    "district_id": 15,
+    "founding_year": 2023,
+    "tea_type": "茶艺,盖碗茶,古筝",
+    "avg_price": 30.96,
+    "popularity": 589,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "茶艺",
+      "盖碗茶",
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.4911077,
+      "lat": 29.5286359
+    }
+  },
+  {
+    "id": 133,
+    "name": "江津区茶园",
+    "address": "江津区59号",
+    "district_id": 14,
+    "founding_year": 1966,
+    "tea_type": "茶艺,麻将,评书",
+    "avg_price": 35.06,
+    "popularity": 884,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "茶艺",
+      "麻将",
+      "评书"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.548536,
+      "lat": 29.5539414
+    }
+  },
+  {
+    "id": 134,
+    "name": "丰都县茶艺馆",
+    "address": "丰都县279号",
+    "district_id": 26,
+    "founding_year": 1979,
+    "tea_type": "古筝,麻将",
+    "avg_price": 43.14,
+    "popularity": 218,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "古筝",
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.4795922,
+      "lat": 29.5263451
+    }
+  },
+  {
+    "id": 135,
+    "name": "城口县茶舍",
+    "address": "城口县201号",
+    "district_id": 25,
+    "founding_year": 2021,
+    "tea_type": "评书,川剧,采耳",
+    "avg_price": 24.64,
+    "popularity": 389,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "评书",
+      "川剧",
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.607385,
+      "lat": 29.6016041
+    }
+  },
+  {
+    "id": 136,
+    "name": "万州区茶艺馆",
+    "address": "万州区303号",
+    "district_id": 10,
+    "founding_year": 2014,
+    "tea_type": "采耳,古筝,川剧",
+    "avg_price": 18.08,
+    "popularity": 845,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "采耳",
+      "古筝",
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.554919,
+      "lat": 29.6253893
+    }
+  },
+  {
+    "id": 137,
+    "name": "江北区茶艺馆",
+    "address": "江北区218号",
+    "district_id": 2,
+    "founding_year": 1985,
+    "tea_type": "茶艺,评书",
+    "avg_price": 26.96,
+    "popularity": 219,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "茶艺",
+      "评书"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5951153,
+      "lat": 29.5859614
+    }
+  },
+  {
+    "id": 138,
+    "name": "北碚区茶舍",
+    "address": "北碚区52号",
+    "district_id": 7,
+    "founding_year": 1999,
+    "tea_type": "评书,盖碗茶,麻将",
+    "avg_price": 32.28,
+    "popularity": 233,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "评书",
+      "盖碗茶",
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6167432,
+      "lat": 29.5284943
+    }
+  },
+  {
+    "id": 139,
+    "name": "永川区茶园",
+    "address": "永川区90号",
+    "district_id": 12,
+    "founding_year": 1963,
+    "tea_type": "采耳,盖碗茶,评书",
+    "avg_price": 73.33,
+    "popularity": 439,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "采耳",
+      "盖碗茶",
+      "评书"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6014289,
+      "lat": 29.5608988
+    }
+  },
+  {
+    "id": 140,
+    "name": "大渡口区茶舍",
+    "address": "大渡口区498号",
+    "district_id": 6,
+    "founding_year": 1959,
+    "tea_type": "盖碗茶,采耳,茶艺",
+    "avg_price": 24.64,
+    "popularity": 501,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "盖碗茶",
+      "采耳",
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5520395,
+      "lat": 29.5111701
+    }
+  },
+  {
+    "id": 141,
+    "name": "大足区茶艺馆",
+    "address": "大足区31号",
+    "district_id": 17,
+    "founding_year": 1998,
+    "tea_type": "川剧,麻将,盖碗茶",
+    "avg_price": 35.02,
+    "popularity": 870,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "川剧",
+      "麻将",
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5628745,
+      "lat": 29.5779525
+    }
+  },
+  {
+    "id": 142,
+    "name": "永川区茶艺馆",
+    "address": "永川区140号",
+    "district_id": 12,
+    "founding_year": 1987,
+    "tea_type": "茶艺,采耳",
+    "avg_price": 69.89,
+    "popularity": 129,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "茶艺",
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5549604,
+      "lat": 29.5215382
+    }
+  },
+  {
+    "id": 143,
+    "name": "奉节县茶园",
+    "address": "奉节县336号",
+    "district_id": 30,
+    "founding_year": 2009,
+    "tea_type": "茶艺",
+    "avg_price": 77.98,
+    "popularity": 373,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5765941,
+      "lat": 29.544658
+    }
+  },
+  {
+    "id": 144,
+    "name": "酉阳县茶艺馆",
+    "address": "酉阳县324号",
+    "district_id": 35,
+    "founding_year": 2014,
+    "tea_type": "古筝,麻将",
+    "avg_price": 66.46,
+    "popularity": 369,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "古筝",
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5618249,
+      "lat": 29.5977567
+    }
+  },
+  {
+    "id": 145,
+    "name": "璧山区老茶馆",
+    "address": "璧山区123号",
+    "district_id": 18,
+    "founding_year": 1989,
+    "tea_type": "评书,川剧",
+    "avg_price": 44.19,
+    "popularity": 546,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "评书",
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5784731,
+      "lat": 29.5979748
+    }
+  },
+  {
+    "id": 146,
+    "name": "荣昌区老茶馆",
+    "address": "荣昌区397号",
+    "district_id": 21,
+    "founding_year": 2006,
+    "tea_type": "麻将",
+    "avg_price": 44.03,
+    "popularity": 109,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5477357,
+      "lat": 29.5603534
+    }
+  },
+  {
+    "id": 147,
+    "name": "江北区茶园",
+    "address": "江北区253号",
+    "district_id": 2,
+    "founding_year": 2007,
+    "tea_type": "古筝,评书",
+    "avg_price": 62.93,
+    "popularity": 127,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "古筝",
+      "评书"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5575613,
+      "lat": 29.5420737
+    }
+  },
+  {
+    "id": 148,
+    "name": "秀山县茶园",
+    "address": "秀山县354号",
+    "district_id": 34,
+    "founding_year": 2010,
+    "tea_type": "麻将,茶艺,川剧",
+    "avg_price": 22.91,
+    "popularity": 631,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "麻将",
+      "茶艺",
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5274143,
+      "lat": 29.5400698
+    }
+  },
+  {
+    "id": 149,
+    "name": "巴南区茶舍",
+    "address": "巴南区265号",
+    "district_id": 9,
+    "founding_year": 1971,
+    "tea_type": "评书,采耳,盖碗茶",
+    "avg_price": 62.13,
+    "popularity": 996,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "评书",
+      "采耳",
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5679602,
+      "lat": 29.5456684
+    }
+  },
+  {
+    "id": 150,
+    "name": "涪陵区老茶馆",
+    "address": "涪陵区368号",
+    "district_id": 11,
+    "founding_year": 2022,
+    "tea_type": "采耳,川剧",
+    "avg_price": 26.22,
+    "popularity": 703,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "采耳",
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5590776,
+      "lat": 29.4951468
+    }
+  },
+  {
+    "id": 151,
+    "name": "秀山县老茶馆",
+    "address": "秀山县350号",
+    "district_id": 34,
+    "founding_year": 1954,
+    "tea_type": "川剧,评书,麻将",
+    "avg_price": 57.97,
+    "popularity": 326,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "川剧",
+      "评书",
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5149506,
+      "lat": 29.5769568
+    }
+  },
+  {
+    "id": 152,
+    "name": "九龙坡区茶艺馆",
+    "address": "九龙坡区346号",
+    "district_id": 5,
+    "founding_year": 2006,
+    "tea_type": "麻将,川剧,评书",
+    "avg_price": 34.03,
+    "popularity": 852,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "麻将",
+      "川剧",
+      "评书"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5775761,
+      "lat": 29.5833506
+    }
+  },
+  {
+    "id": 153,
+    "name": "巫山县茶艺馆",
+    "address": "巫山县100号",
+    "district_id": 31,
+    "founding_year": 1959,
+    "tea_type": "川剧,古筝,麻将",
+    "avg_price": 16.13,
+    "popularity": 546,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "川剧",
+      "古筝",
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.4965095,
+      "lat": 29.5662352
+    }
+  },
+  {
+    "id": 154,
+    "name": "九龙坡区茶园",
+    "address": "九龙坡区126号",
+    "district_id": 5,
+    "founding_year": 2000,
+    "tea_type": "川剧,麻将",
+    "avg_price": 58.47,
+    "popularity": 463,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "川剧",
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5633365,
+      "lat": 29.5975963
+    }
+  },
+  {
+    "id": 155,
+    "name": "合川区茶园",
+    "address": "合川区488号",
+    "district_id": 13,
+    "founding_year": 2005,
+    "tea_type": "古筝",
+    "avg_price": 49.03,
+    "popularity": 736,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6058788,
+      "lat": 29.5646936
+    }
+  },
+  {
+    "id": 156,
+    "name": "城口县茶舍",
+    "address": "城口县206号",
+    "district_id": 25,
+    "founding_year": 1994,
+    "tea_type": "川剧,评书",
+    "avg_price": 74.75,
+    "popularity": 730,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "川剧",
+      "评书"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.539762,
+      "lat": 29.6245575
+    }
+  },
+  {
+    "id": 157,
+    "name": "秀山县茶园",
+    "address": "秀山县448号",
+    "district_id": 34,
+    "founding_year": 1988,
+    "tea_type": "古筝,茶艺,麻将",
+    "avg_price": 15.92,
+    "popularity": 462,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "古筝",
+      "茶艺",
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5435008,
+      "lat": 29.573094
+    }
+  },
+  {
+    "id": 158,
+    "name": "大渡口区茶艺馆",
+    "address": "大渡口区490号",
+    "district_id": 6,
+    "founding_year": 1972,
+    "tea_type": "麻将,茶艺,评书",
+    "avg_price": 58.32,
+    "popularity": 675,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "麻将",
+      "茶艺",
+      "评书"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5879644,
+      "lat": 29.527928
+    }
+  },
+  {
+    "id": 159,
+    "name": "大渡口区老茶馆",
+    "address": "大渡口区243号",
+    "district_id": 6,
+    "founding_year": 2022,
+    "tea_type": "古筝",
+    "avg_price": 75.43,
+    "popularity": 177,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6098201,
+      "lat": 29.5034143
+    }
+  },
+  {
+    "id": 160,
+    "name": "巫溪县茶艺馆",
+    "address": "巫溪县77号",
+    "district_id": 32,
+    "founding_year": 1986,
+    "tea_type": "采耳",
+    "avg_price": 27.07,
+    "popularity": 580,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5807623,
+      "lat": 29.5348069
+    }
+  },
+  {
+    "id": 161,
+    "name": "丰都县茶园",
+    "address": "丰都县237号",
+    "district_id": 26,
+    "founding_year": 1976,
+    "tea_type": "茶艺",
+    "avg_price": 57.37,
+    "popularity": 532,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5081968,
+      "lat": 29.5444171
+    }
+  },
+  {
+    "id": 162,
+    "name": "垫江县老茶馆",
+    "address": "垫江县236号",
+    "district_id": 27,
+    "founding_year": 1951,
+    "tea_type": "评书",
+    "avg_price": 26.89,
+    "popularity": 599,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "评书"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6239422,
+      "lat": 29.5593723
+    }
+  },
+  {
+    "id": 163,
+    "name": "奉节县茶园",
+    "address": "奉节县71号",
+    "district_id": 30,
+    "founding_year": 2016,
+    "tea_type": "评书,川剧",
+    "avg_price": 40.9,
+    "popularity": 923,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "评书",
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5365917,
+      "lat": 29.5389526
+    }
+  },
+  {
+    "id": 164,
+    "name": "奉节县老茶馆",
+    "address": "奉节县359号",
+    "district_id": 30,
+    "founding_year": 1956,
+    "tea_type": "麻将,盖碗茶,采耳",
+    "avg_price": 31.77,
+    "popularity": 285,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "麻将",
+      "盖碗茶",
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5896246,
+      "lat": 29.5479047
+    }
+  },
+  {
+    "id": 165,
+    "name": "渝中区老茶馆",
+    "address": "渝中区357号",
+    "district_id": 1,
+    "founding_year": 2020,
+    "tea_type": "盖碗茶,麻将,茶艺",
+    "avg_price": 53.39,
+    "popularity": 492,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "盖碗茶",
+      "麻将",
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5602826,
+      "lat": 29.563145
+    }
+  },
+  {
+    "id": 166,
+    "name": "渝中区茶舍",
+    "address": "渝中区444号",
+    "district_id": 1,
+    "founding_year": 1965,
+    "tea_type": "评书,茶艺",
+    "avg_price": 47.17,
+    "popularity": 698,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "评书",
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5751695,
+      "lat": 29.5643722
+    }
+  },
+  {
+    "id": 167,
+    "name": "北碚区茶艺馆",
+    "address": "北碚区471号",
+    "district_id": 7,
+    "founding_year": 2010,
+    "tea_type": "川剧,古筝",
+    "avg_price": 61.08,
+    "popularity": 555,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "川剧",
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.556284,
+      "lat": 29.5596525
+    }
+  },
+  {
+    "id": 168,
+    "name": "武隆区老茶馆",
+    "address": "武隆区238号",
+    "district_id": 24,
+    "founding_year": 1999,
+    "tea_type": "川剧,茶艺",
+    "avg_price": 65.71,
+    "popularity": 486,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "川剧",
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.520593,
+      "lat": 29.5856102
+    }
+  },
+  {
+    "id": 169,
+    "name": "巴南区茶园",
+    "address": "巴南区205号",
+    "district_id": 9,
+    "founding_year": 1964,
+    "tea_type": "茶艺,麻将,评书",
+    "avg_price": 31.31,
+    "popularity": 201,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "茶艺",
+      "麻将",
+      "评书"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6029581,
+      "lat": 29.5277562
+    }
+  },
+  {
+    "id": 170,
+    "name": "大渡口区茶园",
+    "address": "大渡口区396号",
+    "district_id": 6,
+    "founding_year": 1960,
+    "tea_type": "古筝,麻将",
+    "avg_price": 41.64,
+    "popularity": 620,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "古筝",
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6127745,
+      "lat": 29.5525352
+    }
+  },
+  {
+    "id": 171,
+    "name": "开州区老茶馆",
+    "address": "开州区62号",
+    "district_id": 22,
+    "founding_year": 1982,
+    "tea_type": "盖碗茶,古筝,茶艺",
+    "avg_price": 77.37,
+    "popularity": 913,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "盖碗茶",
+      "古筝",
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5124546,
+      "lat": 29.6180362
+    }
+  },
+  {
+    "id": 172,
+    "name": "合川区茶园",
+    "address": "合川区480号",
+    "district_id": 13,
+    "founding_year": 1979,
+    "tea_type": "川剧",
+    "avg_price": 43.64,
+    "popularity": 564,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5729031,
+      "lat": 29.504799
+    }
+  },
+  {
+    "id": 173,
+    "name": "綦江区茶园",
+    "address": "綦江区68号",
+    "district_id": 16,
+    "founding_year": 2004,
+    "tea_type": "采耳",
+    "avg_price": 39.27,
+    "popularity": 867,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5850597,
+      "lat": 29.5856296
+    }
+  },
+  {
+    "id": 174,
+    "name": "石柱县茶艺馆",
+    "address": "石柱县165号",
+    "district_id": 33,
+    "founding_year": 1965,
+    "tea_type": "采耳,盖碗茶",
+    "avg_price": 49.02,
+    "popularity": 731,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "采耳",
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5931447,
+      "lat": 29.5505006
+    }
+  },
+  {
+    "id": 175,
+    "name": "秀山县茶园",
+    "address": "秀山县3号",
+    "district_id": 34,
+    "founding_year": 1991,
+    "tea_type": "茶艺",
+    "avg_price": 25.38,
+    "popularity": 477,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5228779,
+      "lat": 29.5449191
+    }
+  },
+  {
+    "id": 176,
+    "name": "大足区茶舍",
+    "address": "大足区115号",
+    "district_id": 17,
+    "founding_year": 1961,
+    "tea_type": "盖碗茶,川剧",
+    "avg_price": 74.83,
+    "popularity": 377,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "盖碗茶",
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5881839,
+      "lat": 29.5797846
+    }
+  },
+  {
+    "id": 177,
+    "name": "石柱县茶舍",
+    "address": "石柱县81号",
+    "district_id": 33,
+    "founding_year": 1954,
+    "tea_type": "评书",
+    "avg_price": 22.93,
+    "popularity": 181,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "评书"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5102893,
+      "lat": 29.5159955
+    }
+  },
+  {
+    "id": 178,
+    "name": "石柱县茶舍",
+    "address": "石柱县57号",
+    "district_id": 33,
+    "founding_year": 1951,
+    "tea_type": "盖碗茶",
+    "avg_price": 59.17,
+    "popularity": 691,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5806155,
+      "lat": 29.5192551
+    }
+  },
+  {
+    "id": 179,
+    "name": "梁平区茶舍",
+    "address": "梁平区120号",
+    "district_id": 23,
+    "founding_year": 1971,
+    "tea_type": "川剧,古筝",
+    "avg_price": 26.56,
+    "popularity": 186,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "川剧",
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5441165,
+      "lat": 29.5884484
+    }
+  },
+  {
+    "id": 180,
+    "name": "綦江区茶艺馆",
+    "address": "綦江区21号",
+    "district_id": 16,
+    "founding_year": 2008,
+    "tea_type": "采耳,川剧",
+    "avg_price": 26.64,
+    "popularity": 237,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "采耳",
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.533749,
+      "lat": 29.5348845
+    }
+  },
+  {
+    "id": 181,
+    "name": "璧山区茶艺馆",
+    "address": "璧山区132号",
+    "district_id": 18,
+    "founding_year": 2019,
+    "tea_type": "采耳",
+    "avg_price": 34.23,
+    "popularity": 338,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5061137,
+      "lat": 29.591372
+    }
+  },
+  {
+    "id": 182,
+    "name": "彭水县茶舍",
+    "address": "彭水县283号",
+    "district_id": 36,
+    "founding_year": 1979,
+    "tea_type": "评书,茶艺",
+    "avg_price": 20.87,
+    "popularity": 246,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "评书",
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.4994144,
+      "lat": 29.6198144
+    }
+  },
+  {
+    "id": 183,
+    "name": "云阳县茶舍",
+    "address": "云阳县99号",
+    "district_id": 29,
+    "founding_year": 1962,
+    "tea_type": "盖碗茶,茶艺",
+    "avg_price": 56.28,
+    "popularity": 954,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "盖碗茶",
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.4857887,
+      "lat": 29.5477792
+    }
+  },
+  {
+    "id": 184,
+    "name": "铜梁区老茶馆",
+    "address": "铜梁区350号",
+    "district_id": 19,
+    "founding_year": 2008,
+    "tea_type": "茶艺,盖碗茶",
+    "avg_price": 75.68,
+    "popularity": 583,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "茶艺",
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5241407,
+      "lat": 29.5574904
+    }
+  },
+  {
+    "id": 185,
+    "name": "北碚区茶园",
+    "address": "北碚区230号",
+    "district_id": 7,
+    "founding_year": 1991,
+    "tea_type": "采耳,评书,古筝",
+    "avg_price": 29.6,
+    "popularity": 146,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "采耳",
+      "评书",
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5626183,
+      "lat": 29.5852636
+    }
+  },
+  {
+    "id": 186,
+    "name": "开州区老茶馆",
+    "address": "开州区185号",
+    "district_id": 22,
+    "founding_year": 1995,
+    "tea_type": "采耳,茶艺",
+    "avg_price": 56.31,
+    "popularity": 998,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "采耳",
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6078501,
+      "lat": 29.5950591
+    }
+  },
+  {
+    "id": 187,
+    "name": "巫溪县老茶馆",
+    "address": "巫溪县455号",
+    "district_id": 32,
+    "founding_year": 1976,
+    "tea_type": "盖碗茶",
+    "avg_price": 76.62,
+    "popularity": 469,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6001347,
+      "lat": 29.5249559
+    }
+  },
+  {
+    "id": 188,
+    "name": "璧山区茶舍",
+    "address": "璧山区441号",
+    "district_id": 18,
+    "founding_year": 1986,
+    "tea_type": "评书,古筝",
+    "avg_price": 67.34,
+    "popularity": 440,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "评书",
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.4923895,
+      "lat": 29.597968
+    }
+  },
+  {
+    "id": 189,
+    "name": "綦江区茶艺馆",
+    "address": "綦江区397号",
+    "district_id": 16,
+    "founding_year": 1999,
+    "tea_type": "麻将,采耳",
+    "avg_price": 21.64,
+    "popularity": 80,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "麻将",
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5705143,
+      "lat": 29.5401734
+    }
+  },
+  {
+    "id": 190,
+    "name": "万州区茶艺馆",
+    "address": "万州区232号",
+    "district_id": 10,
+    "founding_year": 1955,
+    "tea_type": "评书",
+    "avg_price": 25.66,
+    "popularity": 128,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "评书"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5980278,
+      "lat": 29.5805242
+    }
+  },
+  {
+    "id": 191,
+    "name": "开州区茶舍",
+    "address": "开州区413号",
+    "district_id": 22,
+    "founding_year": 2001,
+    "tea_type": "古筝",
+    "avg_price": 29.93,
+    "popularity": 33,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5135305,
+      "lat": 29.6108496
+    }
+  },
+  {
+    "id": 192,
+    "name": "綦江区茶园",
+    "address": "綦江区474号",
+    "district_id": 16,
+    "founding_year": 1997,
+    "tea_type": "川剧,古筝,麻将",
+    "avg_price": 16.93,
+    "popularity": 864,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "川剧",
+      "古筝",
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5131695,
+      "lat": 29.5234394
+    }
+  },
+  {
+    "id": 193,
+    "name": "石柱县茶艺馆",
+    "address": "石柱县146号",
+    "district_id": 33,
+    "founding_year": 1983,
+    "tea_type": "盖碗茶",
+    "avg_price": 17.77,
+    "popularity": 960,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5495895,
+      "lat": 29.5739391
+    }
+  },
+  {
+    "id": 194,
+    "name": "巴南区茶艺馆",
+    "address": "巴南区471号",
+    "district_id": 9,
+    "founding_year": 1995,
+    "tea_type": "茶艺,采耳",
+    "avg_price": 27.54,
+    "popularity": 257,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "茶艺",
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5811639,
+      "lat": 29.5945509
+    }
+  },
+  {
+    "id": 195,
+    "name": "丰都县茶舍",
+    "address": "丰都县106号",
+    "district_id": 26,
+    "founding_year": 1965,
+    "tea_type": "麻将,采耳",
+    "avg_price": 43.86,
+    "popularity": 373,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "麻将",
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5444695,
+      "lat": 29.5694772
+    }
+  },
+  {
+    "id": 196,
+    "name": "荣昌区茶舍",
+    "address": "荣昌区50号",
+    "district_id": 21,
+    "founding_year": 1995,
+    "tea_type": "盖碗茶,采耳",
+    "avg_price": 70.14,
+    "popularity": 91,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "盖碗茶",
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5439158,
+      "lat": 29.5031603
+    }
+  },
+  {
+    "id": 197,
+    "name": "北碚区老茶馆",
+    "address": "北碚区61号",
+    "district_id": 7,
+    "founding_year": 1977,
+    "tea_type": "麻将",
+    "avg_price": 20.08,
+    "popularity": 148,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5580406,
+      "lat": 29.5483753
+    }
+  },
+  {
+    "id": 198,
+    "name": "合川区老茶馆",
+    "address": "合川区452号",
+    "district_id": 13,
+    "founding_year": 2020,
+    "tea_type": "茶艺,评书,古筝",
+    "avg_price": 71.27,
+    "popularity": 682,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "茶艺",
+      "评书",
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5606355,
+      "lat": 29.5624286
+    }
+  },
+  {
+    "id": 199,
+    "name": "铜梁区茶舍",
+    "address": "铜梁区71号",
+    "district_id": 19,
+    "founding_year": 1967,
+    "tea_type": "茶艺",
+    "avg_price": 70.44,
+    "popularity": 864,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5326806,
+      "lat": 29.5706532
+    }
+  },
+  {
+    "id": 200,
+    "name": "合川区茶舍",
+    "address": "合川区189号",
+    "district_id": 13,
+    "founding_year": 2018,
+    "tea_type": "茶艺,盖碗茶",
+    "avg_price": 55.9,
+    "popularity": 705,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "茶艺",
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5553816,
+      "lat": 29.5228318
+    }
+  },
+  {
+    "id": 201,
+    "name": "北碚区茶艺馆",
+    "address": "北碚区15号",
+    "district_id": 7,
+    "founding_year": 1958,
+    "tea_type": "麻将",
+    "avg_price": 19.6,
+    "popularity": 146,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5656012,
+      "lat": 29.5623421
+    }
+  },
+  {
+    "id": 202,
+    "name": "奉节县茶艺馆",
+    "address": "奉节县49号",
+    "district_id": 30,
+    "founding_year": 1999,
+    "tea_type": "茶艺,评书,古筝",
+    "avg_price": 28.26,
+    "popularity": 495,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "茶艺",
+      "评书",
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.524456,
+      "lat": 29.5101413
+    }
+  },
+  {
+    "id": 203,
+    "name": "九龙坡区老茶馆",
+    "address": "九龙坡区218号",
+    "district_id": 5,
+    "founding_year": 1989,
+    "tea_type": "川剧,麻将",
+    "avg_price": 40.72,
+    "popularity": 161,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "川剧",
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5823982,
+      "lat": 29.6116783
+    }
+  },
+  {
+    "id": 204,
+    "name": "九龙坡区茶园",
+    "address": "九龙坡区38号",
+    "district_id": 5,
+    "founding_year": 1966,
+    "tea_type": "采耳,茶艺,川剧",
+    "avg_price": 77.74,
+    "popularity": 530,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "采耳",
+      "茶艺",
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6026974,
+      "lat": 29.5726926
+    }
+  },
+  {
+    "id": 205,
+    "name": "涪陵区茶艺馆",
+    "address": "涪陵区218号",
+    "district_id": 11,
+    "founding_year": 1988,
+    "tea_type": "古筝",
+    "avg_price": 77.27,
+    "popularity": 233,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5059072,
+      "lat": 29.5432155
+    }
+  },
+  {
+    "id": 206,
+    "name": "梁平区茶艺馆",
+    "address": "梁平区325号",
+    "district_id": 23,
+    "founding_year": 1955,
+    "tea_type": "茶艺,川剧",
+    "avg_price": 16.01,
+    "popularity": 513,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "茶艺",
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.4700834,
+      "lat": 29.5896427
+    }
+  },
+  {
+    "id": 207,
+    "name": "綦江区茶艺馆",
+    "address": "綦江区178号",
+    "district_id": 16,
+    "founding_year": 1920,
+    "tea_type": "盖碗茶",
+    "avg_price": 68.89,
+    "popularity": 116,
+    "is_historic": true,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5964122,
+      "lat": 29.5777134
+    }
+  },
+  {
+    "id": 208,
+    "name": "渝中区老茶馆",
+    "address": "渝中区382号",
+    "district_id": 1,
+    "founding_year": 1972,
+    "tea_type": "古筝,麻将,评书",
+    "avg_price": 63.44,
+    "popularity": 334,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "古筝",
+      "麻将",
+      "评书"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5906162,
+      "lat": 29.5814984
+    }
+  },
+  {
+    "id": 209,
+    "name": "潼南区茶艺馆",
+    "address": "潼南区492号",
+    "district_id": 20,
+    "founding_year": 1955,
+    "tea_type": "茶艺",
+    "avg_price": 42.99,
+    "popularity": 700,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.4990762,
+      "lat": 29.5388776
+    }
+  },
+  {
+    "id": 210,
+    "name": "荣昌区茶舍",
+    "address": "荣昌区265号",
+    "district_id": 21,
+    "founding_year": 1933,
+    "tea_type": "评书,采耳,茶艺",
+    "avg_price": 23.26,
+    "popularity": 882,
+    "is_historic": true,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "评书",
+      "采耳",
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5089294,
+      "lat": 29.5159294
+    }
+  },
+  {
+    "id": 211,
+    "name": "云阳县茶舍",
+    "address": "云阳县88号",
+    "district_id": 29,
+    "founding_year": 1971,
+    "tea_type": "评书,川剧,古筝",
+    "avg_price": 62.78,
+    "popularity": 318,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "评书",
+      "川剧",
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5527843,
+      "lat": 29.5609665
+    }
+  },
+  {
+    "id": 212,
+    "name": "巫溪县老茶馆",
+    "address": "巫溪县109号",
+    "district_id": 32,
+    "founding_year": 1962,
+    "tea_type": "茶艺,川剧,评书",
+    "avg_price": 57.65,
+    "popularity": 824,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "茶艺",
+      "川剧",
+      "评书"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6256597,
+      "lat": 29.5738611
+    }
+  },
+  {
+    "id": 213,
+    "name": "綦江区茶艺馆",
+    "address": "綦江区414号",
+    "district_id": 16,
+    "founding_year": 1951,
+    "tea_type": "古筝",
+    "avg_price": 44.93,
+    "popularity": 614,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5559658,
+      "lat": 29.5353086
+    }
+  },
+  {
+    "id": 214,
+    "name": "合川区茶舍",
+    "address": "合川区173号",
+    "district_id": 13,
+    "founding_year": 1984,
+    "tea_type": "茶艺,采耳",
+    "avg_price": 23.77,
+    "popularity": 924,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "茶艺",
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6253292,
+      "lat": 29.5536631
+    }
+  },
+  {
+    "id": 215,
+    "name": "涪陵区茶舍",
+    "address": "涪陵区194号",
+    "district_id": 11,
+    "founding_year": 1970,
+    "tea_type": "麻将,川剧",
+    "avg_price": 53.5,
+    "popularity": 941,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "麻将",
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5685193,
+      "lat": 29.5613708
+    }
+  },
+  {
+    "id": 216,
+    "name": "酉阳县茶园",
+    "address": "酉阳县65号",
+    "district_id": 35,
+    "founding_year": 1909,
+    "tea_type": "川剧",
+    "avg_price": 45.16,
+    "popularity": 805,
+    "is_historic": true,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5558276,
+      "lat": 29.5763063
+    }
+  },
+  {
+    "id": 217,
+    "name": "荣昌区茶舍",
+    "address": "荣昌区491号",
+    "district_id": 21,
+    "founding_year": 1902,
+    "tea_type": "茶艺,盖碗茶,古筝",
+    "avg_price": 45.59,
+    "popularity": 786,
+    "is_historic": true,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "茶艺",
+      "盖碗茶",
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5336905,
+      "lat": 29.5656049
+    }
+  },
+  {
+    "id": 218,
+    "name": "巫溪县茶园",
+    "address": "巫溪县349号",
+    "district_id": 32,
+    "founding_year": 1963,
+    "tea_type": "古筝,麻将",
+    "avg_price": 28.42,
+    "popularity": 586,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "古筝",
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5918659,
+      "lat": 29.5838482
+    }
+  },
+  {
+    "id": 219,
+    "name": "彭水县茶艺馆",
+    "address": "彭水县441号",
+    "district_id": 36,
+    "founding_year": 1990,
+    "tea_type": "川剧",
+    "avg_price": 73.55,
+    "popularity": 566,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5241951,
+      "lat": 29.5781107
+    }
+  },
+  {
+    "id": 220,
+    "name": "永川区老茶馆",
+    "address": "永川区119号",
+    "district_id": 12,
+    "founding_year": 2015,
+    "tea_type": "麻将,茶艺",
+    "avg_price": 51.13,
+    "popularity": 551,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "麻将",
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.567713,
+      "lat": 29.5303519
+    }
+  },
+  {
+    "id": 221,
+    "name": "彭水县茶舍",
+    "address": "彭水县350号",
+    "district_id": 36,
+    "founding_year": 1978,
+    "tea_type": "麻将,茶艺",
+    "avg_price": 47.87,
+    "popularity": 785,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "麻将",
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5462398,
+      "lat": 29.5955718
+    }
+  },
+  {
+    "id": 222,
+    "name": "武隆区老茶馆",
+    "address": "武隆区92号",
+    "district_id": 24,
+    "founding_year": 2020,
+    "tea_type": "盖碗茶,麻将,古筝",
+    "avg_price": 35.0,
+    "popularity": 904,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "盖碗茶",
+      "麻将",
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5989532,
+      "lat": 29.5960998
+    }
+  },
+  {
+    "id": 223,
+    "name": "巴南区茶舍",
+    "address": "巴南区177号",
+    "district_id": 9,
+    "founding_year": 1970,
+    "tea_type": "茶艺,古筝,川剧",
+    "avg_price": 66.74,
+    "popularity": 451,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "茶艺",
+      "古筝",
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6138961,
+      "lat": 29.527542
+    }
+  },
+  {
+    "id": 224,
+    "name": "云阳县老茶馆",
+    "address": "云阳县89号",
+    "district_id": 29,
+    "founding_year": 1991,
+    "tea_type": "采耳,茶艺,古筝",
+    "avg_price": 27.32,
+    "popularity": 115,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "采耳",
+      "茶艺",
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.55706,
+      "lat": 29.5818207
+    }
+  },
+  {
+    "id": 225,
+    "name": "万州区茶舍",
+    "address": "万州区80号",
+    "district_id": 10,
+    "founding_year": 2024,
+    "tea_type": "采耳,川剧",
+    "avg_price": 58.38,
+    "popularity": 806,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "采耳",
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5268846,
+      "lat": 29.5650936
+    }
+  },
+  {
+    "id": 226,
+    "name": "渝中区茶园",
+    "address": "渝中区209号",
+    "district_id": 1,
+    "founding_year": 1971,
+    "tea_type": "盖碗茶,采耳,麻将",
+    "avg_price": 32.06,
+    "popularity": 321,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "盖碗茶",
+      "采耳",
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6049552,
+      "lat": 29.5769584
+    }
+  },
+  {
+    "id": 227,
+    "name": "永川区茶园",
+    "address": "永川区52号",
+    "district_id": 12,
+    "founding_year": 1983,
+    "tea_type": "采耳",
+    "avg_price": 20.07,
+    "popularity": 320,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5596662,
+      "lat": 29.529648
+    }
+  },
+  {
+    "id": 228,
+    "name": "梁平区茶园",
+    "address": "梁平区253号",
+    "district_id": 23,
+    "founding_year": 1974,
+    "tea_type": "盖碗茶,川剧",
+    "avg_price": 23.1,
+    "popularity": 773,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "盖碗茶",
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5009264,
+      "lat": 29.5879988
+    }
+  },
+  {
+    "id": 229,
+    "name": "万州区老茶馆",
+    "address": "万州区187号",
+    "district_id": 10,
+    "founding_year": 1952,
+    "tea_type": "评书,采耳,盖碗茶",
+    "avg_price": 47.47,
+    "popularity": 102,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "评书",
+      "采耳",
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5135193,
+      "lat": 29.5626837
+    }
+  },
+  {
+    "id": 230,
+    "name": "沙坪坝区茶舍",
+    "address": "沙坪坝区227号",
+    "district_id": 4,
+    "founding_year": 2023,
+    "tea_type": "川剧",
+    "avg_price": 51.88,
+    "popularity": 873,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.524129,
+      "lat": 29.5357687
+    }
+  },
+  {
+    "id": 231,
+    "name": "巴南区老茶馆",
+    "address": "巴南区314号",
+    "district_id": 9,
+    "founding_year": 1967,
+    "tea_type": "川剧,麻将,盖碗茶",
+    "avg_price": 42.14,
+    "popularity": 538,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "川剧",
+      "麻将",
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6008574,
+      "lat": 29.5788836
+    }
+  },
+  {
+    "id": 232,
+    "name": "南岸区茶舍",
+    "address": "南岸区170号",
+    "district_id": 3,
+    "founding_year": 2005,
+    "tea_type": "评书,古筝,茶艺",
+    "avg_price": 24.2,
+    "popularity": 575,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "评书",
+      "古筝",
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.4790498,
+      "lat": 29.5216366
+    }
+  },
+  {
+    "id": 233,
+    "name": "北碚区茶艺馆",
+    "address": "北碚区175号",
+    "district_id": 7,
+    "founding_year": 2002,
+    "tea_type": "古筝,茶艺",
+    "avg_price": 76.78,
+    "popularity": 473,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "古筝",
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5507894,
+      "lat": 29.546192
+    }
+  },
+  {
+    "id": 234,
+    "name": "云阳县茶舍",
+    "address": "云阳县145号",
+    "district_id": 29,
+    "founding_year": 2001,
+    "tea_type": "采耳,古筝",
+    "avg_price": 19.37,
+    "popularity": 54,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "采耳",
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5261778,
+      "lat": 29.5649803
+    }
+  },
+  {
+    "id": 235,
+    "name": "忠县茶艺馆",
+    "address": "忠县91号",
+    "district_id": 28,
+    "founding_year": 2022,
+    "tea_type": "盖碗茶",
+    "avg_price": 70.18,
+    "popularity": 935,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5270999,
+      "lat": 29.5219114
+    }
+  },
+  {
+    "id": 236,
+    "name": "铜梁区茶园",
+    "address": "铜梁区466号",
+    "district_id": 19,
+    "founding_year": 1975,
+    "tea_type": "采耳,麻将,盖碗茶",
+    "avg_price": 44.93,
+    "popularity": 209,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "采耳",
+      "麻将",
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.557209,
+      "lat": 29.5701051
+    }
+  },
+  {
+    "id": 237,
+    "name": "石柱县茶舍",
+    "address": "石柱县207号",
+    "district_id": 33,
+    "founding_year": 1914,
+    "tea_type": "采耳,麻将,茶艺",
+    "avg_price": 66.03,
+    "popularity": 385,
+    "is_historic": true,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "采耳",
+      "麻将",
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5667674,
+      "lat": 29.559425
+    }
+  },
+  {
+    "id": 238,
+    "name": "南川区茶园",
+    "address": "南川区112号",
+    "district_id": 15,
+    "founding_year": 1998,
+    "tea_type": "麻将,评书",
+    "avg_price": 64.82,
+    "popularity": 237,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "麻将",
+      "评书"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5140777,
+      "lat": 29.5467334
+    }
+  },
+  {
+    "id": 239,
+    "name": "江津区茶舍",
+    "address": "江津区157号",
+    "district_id": 14,
+    "founding_year": 1965,
+    "tea_type": "麻将",
+    "avg_price": 15.51,
+    "popularity": 709,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5602375,
+      "lat": 29.5457522
+    }
+  },
+  {
+    "id": 240,
+    "name": "荣昌区茶舍",
+    "address": "荣昌区48号",
+    "district_id": 21,
+    "founding_year": 1984,
+    "tea_type": "川剧,采耳,评书",
+    "avg_price": 67.12,
+    "popularity": 784,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "川剧",
+      "采耳",
+      "评书"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5542289,
+      "lat": 29.5546622
+    }
+  },
+  {
+    "id": 241,
+    "name": "荣昌区老茶馆",
+    "address": "荣昌区327号",
+    "district_id": 21,
+    "founding_year": 1961,
+    "tea_type": "麻将,采耳,古筝",
+    "avg_price": 79.95,
+    "popularity": 728,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "麻将",
+      "采耳",
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5484176,
+      "lat": 29.5082859
+    }
+  },
+  {
+    "id": 242,
+    "name": "荣昌区茶艺馆",
+    "address": "荣昌区272号",
+    "district_id": 21,
+    "founding_year": 1952,
+    "tea_type": "麻将",
+    "avg_price": 32.76,
+    "popularity": 577,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.552853,
+      "lat": 29.5248044
+    }
+  },
+  {
+    "id": 243,
+    "name": "秀山县茶园",
+    "address": "秀山县278号",
+    "district_id": 34,
+    "founding_year": 1981,
+    "tea_type": "盖碗茶,川剧",
+    "avg_price": 25.92,
+    "popularity": 724,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "盖碗茶",
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5364392,
+      "lat": 29.5296649
+    }
+  },
+  {
+    "id": 244,
+    "name": "垫江县茶艺馆",
+    "address": "垫江县486号",
+    "district_id": 27,
+    "founding_year": 1971,
+    "tea_type": "采耳",
+    "avg_price": 46.66,
+    "popularity": 662,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5395236,
+      "lat": 29.5795978
+    }
+  },
+  {
+    "id": 245,
+    "name": "忠县茶园",
+    "address": "忠县330号",
+    "district_id": 28,
+    "founding_year": 1983,
+    "tea_type": "川剧",
+    "avg_price": 29.14,
+    "popularity": 41,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5365121,
+      "lat": 29.5900198
+    }
+  },
+  {
+    "id": 246,
+    "name": "秀山县老茶馆",
+    "address": "秀山县255号",
+    "district_id": 34,
+    "founding_year": 1999,
+    "tea_type": "盖碗茶",
+    "avg_price": 59.97,
+    "popularity": 801,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5469575,
+      "lat": 29.5327802
+    }
+  },
+  {
+    "id": 247,
+    "name": "巫溪县茶园",
+    "address": "巫溪县108号",
+    "district_id": 32,
+    "founding_year": 2011,
+    "tea_type": "评书,盖碗茶",
+    "avg_price": 43.9,
+    "popularity": 352,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "评书",
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5794054,
+      "lat": 29.5975901
+    }
+  },
+  {
+    "id": 248,
+    "name": "涪陵区茶艺馆",
+    "address": "涪陵区229号",
+    "district_id": 11,
+    "founding_year": 1962,
+    "tea_type": "采耳",
+    "avg_price": 63.17,
+    "popularity": 160,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5085365,
+      "lat": 29.4984456
+    }
+  },
+  {
+    "id": 249,
+    "name": "渝北区茶园",
+    "address": "渝北区95号",
+    "district_id": 8,
+    "founding_year": 1988,
+    "tea_type": "采耳,评书",
+    "avg_price": 16.72,
+    "popularity": 600,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "采耳",
+      "评书"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5609284,
+      "lat": 29.5488711
+    }
+  },
+  {
+    "id": 250,
+    "name": "北碚区茶园",
+    "address": "北碚区183号",
+    "district_id": 7,
+    "founding_year": 1988,
+    "tea_type": "麻将",
+    "avg_price": 70.34,
+    "popularity": 694,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6021288,
+      "lat": 29.5714189
+    }
+  },
+  {
+    "id": 251,
+    "name": "江北区茶艺馆",
+    "address": "江北区220号",
+    "district_id": 2,
+    "founding_year": 2024,
+    "tea_type": "采耳",
+    "avg_price": 19.05,
+    "popularity": 384,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5534175,
+      "lat": 29.5817348
+    }
+  },
+  {
+    "id": 252,
+    "name": "綦江区茶园",
+    "address": "綦江区362号",
+    "district_id": 16,
+    "founding_year": 2007,
+    "tea_type": "茶艺,采耳,川剧",
+    "avg_price": 63.07,
+    "popularity": 745,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "茶艺",
+      "采耳",
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5206297,
+      "lat": 29.5588776
+    }
+  },
+  {
+    "id": 253,
+    "name": "梁平区老茶馆",
+    "address": "梁平区280号",
+    "district_id": 23,
+    "founding_year": 1924,
+    "tea_type": "川剧,盖碗茶,麻将",
+    "avg_price": 56.01,
+    "popularity": 257,
+    "is_historic": true,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "川剧",
+      "盖碗茶",
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5192585,
+      "lat": 29.602265
+    }
+  },
+  {
+    "id": 254,
+    "name": "巫山县老茶馆",
+    "address": "巫山县442号",
+    "district_id": 31,
+    "founding_year": 1955,
+    "tea_type": "麻将,川剧",
+    "avg_price": 24.72,
+    "popularity": 297,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "麻将",
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5847533,
+      "lat": 29.5565236
+    }
+  },
+  {
+    "id": 255,
+    "name": "南川区茶舍",
+    "address": "南川区343号",
+    "district_id": 15,
+    "founding_year": 2019,
+    "tea_type": "古筝,盖碗茶,川剧",
+    "avg_price": 25.21,
+    "popularity": 569,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "古筝",
+      "盖碗茶",
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.4959841,
+      "lat": 29.5632744
+    }
+  },
+  {
+    "id": 256,
+    "name": "武隆区老茶馆",
+    "address": "武隆区9号",
+    "district_id": 24,
+    "founding_year": 2011,
+    "tea_type": "采耳,川剧,茶艺",
+    "avg_price": 17.22,
+    "popularity": 588,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "采耳",
+      "川剧",
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5142883,
+      "lat": 29.5876651
+    }
+  },
+  {
+    "id": 257,
+    "name": "江北区老茶馆",
+    "address": "江北区46号",
+    "district_id": 2,
+    "founding_year": 2021,
+    "tea_type": "盖碗茶,茶艺",
+    "avg_price": 75.06,
+    "popularity": 238,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "盖碗茶",
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5419088,
+      "lat": 29.5841583
+    }
+  },
+  {
+    "id": 258,
+    "name": "南川区老茶馆",
+    "address": "南川区395号",
+    "district_id": 15,
+    "founding_year": 1926,
+    "tea_type": "评书,盖碗茶",
+    "avg_price": 35.91,
+    "popularity": 340,
+    "is_historic": true,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "评书",
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.4868678,
+      "lat": 29.5149985
+    }
+  },
+  {
+    "id": 259,
+    "name": "武隆区茶舍",
+    "address": "武隆区409号",
+    "district_id": 24,
+    "founding_year": 1996,
+    "tea_type": "茶艺,川剧,采耳",
+    "avg_price": 36.49,
+    "popularity": 905,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "茶艺",
+      "川剧",
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5367563,
+      "lat": 29.6106931
+    }
+  },
+  {
+    "id": 260,
+    "name": "南川区茶舍",
+    "address": "南川区64号",
+    "district_id": 15,
+    "founding_year": 1985,
+    "tea_type": "川剧,麻将",
+    "avg_price": 65.94,
+    "popularity": 374,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "川剧",
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5186034,
+      "lat": 29.5542467
+    }
+  },
+  {
+    "id": 261,
+    "name": "忠县茶园",
+    "address": "忠县364号",
+    "district_id": 28,
+    "founding_year": 1962,
+    "tea_type": "采耳",
+    "avg_price": 66.31,
+    "popularity": 140,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.4835645,
+      "lat": 29.5861531
+    }
+  },
+  {
+    "id": 262,
+    "name": "酉阳县茶舍",
+    "address": "酉阳县23号",
+    "district_id": 35,
+    "founding_year": 2019,
+    "tea_type": "古筝,评书,盖碗茶",
+    "avg_price": 79.06,
+    "popularity": 604,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "古筝",
+      "评书",
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5809945,
+      "lat": 29.572196
+    }
+  },
+  {
+    "id": 263,
+    "name": "渝中区茶园",
+    "address": "渝中区26号",
+    "district_id": 1,
+    "founding_year": 1986,
+    "tea_type": "麻将,盖碗茶,古筝",
+    "avg_price": 32.44,
+    "popularity": 404,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "麻将",
+      "盖碗茶",
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5942016,
+      "lat": 29.5709542
+    }
+  },
+  {
+    "id": 264,
+    "name": "巴南区茶艺馆",
+    "address": "巴南区80号",
+    "district_id": 9,
+    "founding_year": 1999,
+    "tea_type": "盖碗茶,古筝",
+    "avg_price": 54.33,
+    "popularity": 36,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "盖碗茶",
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5736146,
+      "lat": 29.5719303
+    }
+  },
+  {
+    "id": 265,
+    "name": "巴南区茶艺馆",
+    "address": "巴南区427号",
+    "district_id": 9,
+    "founding_year": 1978,
+    "tea_type": "川剧",
+    "avg_price": 39.43,
+    "popularity": 789,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5361212,
+      "lat": 29.560358
+    }
+  },
+  {
+    "id": 266,
+    "name": "南岸区茶园",
+    "address": "南岸区313号",
+    "district_id": 3,
+    "founding_year": 2017,
+    "tea_type": "评书,古筝",
+    "avg_price": 40.56,
+    "popularity": 506,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "评书",
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5027666,
+      "lat": 29.5725658
+    }
+  },
+  {
+    "id": 267,
+    "name": "合川区老茶馆",
+    "address": "合川区291号",
+    "district_id": 13,
+    "founding_year": 1973,
+    "tea_type": "麻将",
+    "avg_price": 38.44,
+    "popularity": 217,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6363009,
+      "lat": 29.5715521
+    }
+  },
+  {
+    "id": 268,
+    "name": "石柱县茶园",
+    "address": "石柱县485号",
+    "district_id": 33,
+    "founding_year": 1955,
+    "tea_type": "茶艺,采耳",
+    "avg_price": 27.81,
+    "popularity": 757,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "茶艺",
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5266632,
+      "lat": 29.5579811
+    }
+  },
+  {
+    "id": 269,
+    "name": "渝北区茶舍",
+    "address": "渝北区209号",
+    "district_id": 8,
+    "founding_year": 1958,
+    "tea_type": "评书",
+    "avg_price": 79.22,
+    "popularity": 855,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "评书"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6039335,
+      "lat": 29.5340418
+    }
+  },
+  {
+    "id": 270,
+    "name": "沙坪坝区茶艺馆",
+    "address": "沙坪坝区479号",
+    "district_id": 4,
+    "founding_year": 1958,
+    "tea_type": "古筝",
+    "avg_price": 40.93,
+    "popularity": 989,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5088935,
+      "lat": 29.525494
+    }
+  },
+  {
+    "id": 271,
+    "name": "巫溪县老茶馆",
+    "address": "巫溪县263号",
+    "district_id": 32,
+    "founding_year": 2013,
+    "tea_type": "古筝,评书,川剧",
+    "avg_price": 21.83,
+    "popularity": 541,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "古筝",
+      "评书",
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6120064,
+      "lat": 29.5847461
+    }
+  },
+  {
+    "id": 272,
+    "name": "潼南区茶舍",
+    "address": "潼南区230号",
+    "district_id": 20,
+    "founding_year": 1972,
+    "tea_type": "盖碗茶,川剧,采耳",
+    "avg_price": 19.17,
+    "popularity": 327,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "盖碗茶",
+      "川剧",
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5383128,
+      "lat": 29.4971084
+    }
+  },
+  {
+    "id": 273,
+    "name": "潼南区茶舍",
+    "address": "潼南区57号",
+    "district_id": 20,
+    "founding_year": 1993,
+    "tea_type": "茶艺,盖碗茶",
+    "avg_price": 29.39,
+    "popularity": 721,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "茶艺",
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5377115,
+      "lat": 29.5122847
+    }
+  },
+  {
+    "id": 274,
+    "name": "武隆区老茶馆",
+    "address": "武隆区423号",
+    "district_id": 24,
+    "founding_year": 1973,
+    "tea_type": "古筝",
+    "avg_price": 65.53,
+    "popularity": 48,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5620782,
+      "lat": 29.5908703
+    }
+  },
+  {
+    "id": 275,
+    "name": "渝中区茶园",
+    "address": "渝中区286号",
+    "district_id": 1,
+    "founding_year": 1993,
+    "tea_type": "茶艺,川剧",
+    "avg_price": 33.81,
+    "popularity": 285,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "茶艺",
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5365857,
+      "lat": 29.6085119
+    }
+  },
+  {
+    "id": 276,
+    "name": "石柱县茶舍",
+    "address": "石柱县183号",
+    "district_id": 33,
+    "founding_year": 1995,
+    "tea_type": "采耳,盖碗茶,古筝",
+    "avg_price": 38.32,
+    "popularity": 673,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "采耳",
+      "盖碗茶",
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5835882,
+      "lat": 29.5419446
+    }
+  },
+  {
+    "id": 277,
+    "name": "渝中区老茶馆",
+    "address": "渝中区253号",
+    "district_id": 1,
+    "founding_year": 1986,
+    "tea_type": "采耳,古筝,评书",
+    "avg_price": 66.5,
+    "popularity": 782,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "采耳",
+      "古筝",
+      "评书"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6128841,
+      "lat": 29.614044
+    }
+  },
+  {
+    "id": 278,
+    "name": "云阳县老茶馆",
+    "address": "云阳县33号",
+    "district_id": 29,
+    "founding_year": 1960,
+    "tea_type": "川剧",
+    "avg_price": 27.11,
+    "popularity": 898,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5337444,
+      "lat": 29.5475049
+    }
+  },
+  {
+    "id": 279,
+    "name": "沙坪坝区茶园",
+    "address": "沙坪坝区414号",
+    "district_id": 4,
+    "founding_year": 1960,
+    "tea_type": "麻将",
+    "avg_price": 43.39,
+    "popularity": 636,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5676727,
+      "lat": 29.5915492
+    }
+  },
+  {
+    "id": 280,
+    "name": "璧山区茶艺馆",
+    "address": "璧山区381号",
+    "district_id": 18,
+    "founding_year": 1933,
+    "tea_type": "采耳,川剧",
+    "avg_price": 18.75,
+    "popularity": 772,
+    "is_historic": true,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "采耳",
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.4918083,
+      "lat": 29.5980604
+    }
+  },
+  {
+    "id": 281,
+    "name": "大足区茶园",
+    "address": "大足区294号",
+    "district_id": 17,
+    "founding_year": 1950,
+    "tea_type": "麻将,采耳",
+    "avg_price": 24.51,
+    "popularity": 106,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "麻将",
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6030877,
+      "lat": 29.5745614
+    }
+  },
+  {
+    "id": 282,
+    "name": "垫江县茶园",
+    "address": "垫江县255号",
+    "district_id": 27,
+    "founding_year": 1963,
+    "tea_type": "茶艺",
+    "avg_price": 22.45,
+    "popularity": 967,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5925294,
+      "lat": 29.6072048
+    }
+  },
+  {
+    "id": 283,
+    "name": "万州区茶艺馆",
+    "address": "万州区448号",
+    "district_id": 10,
+    "founding_year": 1977,
+    "tea_type": "麻将,茶艺,川剧",
+    "avg_price": 46.63,
+    "popularity": 48,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "麻将",
+      "茶艺",
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5682577,
+      "lat": 29.5781998
+    }
+  },
+  {
+    "id": 284,
+    "name": "秀山县茶舍",
+    "address": "秀山县19号",
+    "district_id": 34,
+    "founding_year": 1973,
+    "tea_type": "评书",
+    "avg_price": 55.99,
+    "popularity": 926,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "评书"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5099565,
+      "lat": 29.5776754
+    }
+  },
+  {
+    "id": 285,
+    "name": "彭水县茶艺馆",
+    "address": "彭水县434号",
+    "district_id": 36,
+    "founding_year": 1962,
+    "tea_type": "茶艺",
+    "avg_price": 25.84,
+    "popularity": 375,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5694684,
+      "lat": 29.5683809
+    }
+  },
+  {
+    "id": 286,
+    "name": "奉节县茶艺馆",
+    "address": "奉节县276号",
+    "district_id": 30,
+    "founding_year": 1972,
+    "tea_type": "评书",
+    "avg_price": 58.87,
+    "popularity": 252,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "评书"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5490338,
+      "lat": 29.529932
+    }
+  },
+  {
+    "id": 287,
+    "name": "北碚区茶艺馆",
+    "address": "北碚区357号",
+    "district_id": 7,
+    "founding_year": 2005,
+    "tea_type": "茶艺,评书,盖碗茶",
+    "avg_price": 42.7,
+    "popularity": 975,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "茶艺",
+      "评书",
+      "盖碗茶"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6182821,
+      "lat": 29.5788731
+    }
+  },
+  {
+    "id": 288,
+    "name": "巫溪县茶艺馆",
+    "address": "巫溪县140号",
+    "district_id": 32,
+    "founding_year": 1962,
+    "tea_type": "麻将",
+    "avg_price": 57.97,
+    "popularity": 397,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6175022,
+      "lat": 29.5785825
+    }
+  },
+  {
+    "id": 289,
+    "name": "涪陵区茶艺馆",
+    "address": "涪陵区126号",
+    "district_id": 11,
+    "founding_year": 1974,
+    "tea_type": "采耳",
+    "avg_price": 47.02,
+    "popularity": 295,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5771757,
+      "lat": 29.5651738
+    }
+  },
+  {
+    "id": 290,
+    "name": "城口县茶园",
+    "address": "城口县201号",
+    "district_id": 25,
+    "founding_year": 1956,
+    "tea_type": "古筝",
+    "avg_price": 64.16,
+    "popularity": 804,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6140854,
+      "lat": 29.5923302
+    }
+  },
+  {
+    "id": 291,
+    "name": "璧山区茶艺馆",
+    "address": "璧山区197号",
+    "district_id": 18,
+    "founding_year": 1963,
+    "tea_type": "盖碗茶,采耳",
+    "avg_price": 53.0,
+    "popularity": 819,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "盖碗茶",
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.542738,
+      "lat": 29.5477624
+    }
+  },
+  {
+    "id": 292,
+    "name": "渝北区茶艺馆",
+    "address": "渝北区396号",
+    "district_id": 8,
+    "founding_year": 1952,
+    "tea_type": "采耳",
+    "avg_price": 55.71,
+    "popularity": 755,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5216588,
+      "lat": 29.5831357
+    }
+  },
+  {
+    "id": 293,
+    "name": "彭水县茶艺馆",
+    "address": "彭水县260号",
+    "district_id": 36,
+    "founding_year": 2001,
+    "tea_type": "茶艺,古筝",
+    "avg_price": 73.32,
+    "popularity": 362,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "茶艺",
+      "古筝"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5118662,
+      "lat": 29.5562178
+    }
+  },
+  {
+    "id": 294,
+    "name": "万州区茶艺馆",
+    "address": "万州区281号",
+    "district_id": 10,
+    "founding_year": 2019,
+    "tea_type": "川剧,评书",
+    "avg_price": 33.8,
+    "popularity": 555,
+    "is_historic": false,
+    "community_type": "商务型",
+    "cultural_tags": [
+      "川剧",
+      "评书"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6012324,
+      "lat": 29.562152
+    }
+  },
+  {
+    "id": 295,
+    "name": "合川区茶艺馆",
+    "address": "合川区285号",
+    "district_id": 13,
+    "founding_year": 1974,
+    "tea_type": "采耳",
+    "avg_price": 54.39,
+    "popularity": 227,
+    "is_historic": false,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5918543,
+      "lat": 29.5294426
+    }
+  },
+  {
+    "id": 296,
+    "name": "巴南区茶舍",
+    "address": "巴南区215号",
+    "district_id": 9,
+    "founding_year": 1970,
+    "tea_type": "麻将,采耳",
+    "avg_price": 45.11,
+    "popularity": 354,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "麻将",
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6036371,
+      "lat": 29.6035189
+    }
+  },
+  {
+    "id": 297,
+    "name": "綦江区老茶馆",
+    "address": "綦江区366号",
+    "district_id": 16,
+    "founding_year": 2021,
+    "tea_type": "茶艺",
+    "avg_price": 21.16,
+    "popularity": 922,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "茶艺"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5927587,
+      "lat": 29.5878306
+    }
+  },
+  {
+    "id": 298,
+    "name": "铜梁区茶舍",
+    "address": "铜梁区61号",
+    "district_id": 19,
+    "founding_year": 1989,
+    "tea_type": "川剧",
+    "avg_price": 28.81,
+    "popularity": 551,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "川剧"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5463424,
+      "lat": 29.5556764
+    }
+  },
+  {
+    "id": 299,
+    "name": "城口县茶舍",
+    "address": "城口县230号",
+    "district_id": 25,
+    "founding_year": 1908,
+    "tea_type": "盖碗茶,麻将",
+    "avg_price": 38.85,
+    "popularity": 159,
+    "is_historic": true,
+    "community_type": "社区型",
+    "cultural_tags": [
+      "盖碗茶",
+      "麻将"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.6226858,
+      "lat": 29.5710882
+    }
+  },
+  {
+    "id": 300,
+    "name": "北碚区茶艺馆",
+    "address": "北碚区324号",
+    "district_id": 7,
+    "founding_year": 2017,
+    "tea_type": "盖碗茶,麻将,采耳",
+    "avg_price": 48.93,
+    "popularity": 82,
+    "is_historic": false,
+    "community_type": "景区型",
+    "cultural_tags": [
+      "盖碗茶",
+      "麻将",
+      "采耳"
+    ],
+    "update_time": "2025-11-08 12:03:11",
+    "coordinates": {
+      "lng": 106.5287949,
+      "lat": 29.5253163
+    }
+  },
+  {
+    "id": 5001,
+    "name": "长寿区老茶馆",
+    "address": "长寿区凤城街道",
+    "type": "老茶馆",
+    "district_id": 37,
+    "founding_year": 2008,
+    "rating": 4.3,
+    "review_count": 456,
+    "business_hours": "8:00-22:00",
+    "coordinates": {
+      "lng": 107.0747,
+      "lat": 29.8572
+    }
+  },
+  {
+    "id": 5002,
+    "name": "长寿区茶艺馆",
+    "address": "长寿区桃花大道",
+    "type": "茶艺馆",
+    "district_id": 37,
+    "founding_year": 2015,
+    "rating": 4.2,
+    "review_count": 328,
+    "business_hours": "9:00-23:00",
+    "coordinates": {
+      "lng": 107.0820,
+      "lat": 29.8650
+    }
+  },
+  {
+    "id": 5003,
+    "name": "长寿区茶园",
+    "address": "长寿区向阳路",
+    "type": "茶园",
+    "district_id": 37,
+    "founding_year": 2018,
+    "rating": 4.4,
+    "review_count": 567,
+    "business_hours": "8:30-22:30",
+    "coordinates": {
+      "lng": 107.0680,
+      "lat": 29.8500
+    }
+  },
+  {
+    "id": 5004,
+    "name": "长寿区茶舍",
+    "address": "长寿区文昌路",
+    "type": "茶舍",
+    "district_id": 37,
+    "founding_year": 2012,
+    "rating": 4.1,
+    "review_count": 234,
+    "business_hours": "9:00-22:00",
+    "coordinates": {
+      "lng": 107.0800,
+      "lat": 29.8620
+    }
+  },
+  {
+    "id": 5005,
+    "name": "黔江区老茶馆",
+    "address": "黔江区城东街道",
+    "type": "老茶馆",
+    "district_id": 38,
+    "founding_year": 2006,
+    "rating": 4.2,
+    "review_count": 389,
+    "business_hours": "8:00-22:00",
+    "coordinates": {
+      "lng": 108.7826,
+      "lat": 29.5275
+    }
+  },
+  {
+    "id": 5006,
+    "name": "黔江区茶艺馆",
+    "address": "黔江区正阳街道",
+    "type": "茶艺馆",
+    "district_id": 38,
+    "founding_year": 2014,
+    "rating": 4.3,
+    "review_count": 445,
+    "business_hours": "9:00-23:00",
+    "coordinates": {
+      "lng": 108.7900,
+      "lat": 29.5350
+    }
+  },
+  {
+    "id": 5007,
+    "name": "黔江区茶园",
+    "address": "黔江区舟白街道",
+    "type": "茶园",
+    "district_id": 38,
+    "founding_year": 2017,
+    "rating": 4.1,
+    "review_count": 298,
+    "business_hours": "8:30-22:30",
+    "coordinates": {
+      "lng": 108.7750,
+      "lat": 29.5200
+    }
+  },
+  {
+    "id": 5008,
+    "name": "黔江区茶舍",
+    "address": "黔江区冯家街道",
+    "type": "茶舍",
+    "district_id": 38,
+    "founding_year": 2019,
+    "rating": 4.4,
+    "review_count": 623,
+    "business_hours": "9:00-22:00",
+    "coordinates": {
+      "lng": 108.7880,
+      "lat": 29.5320
+    }
+  },
+  {
+    "id": 5009,
+    "name": "黔江区土家茶馆",
+    "address": "黔江区濯水古镇",
+    "type": "老茶馆",
+    "district_id": 38,
+    "founding_year": 2010,
+    "rating": 4.5,
+    "review_count": 892,
+    "business_hours": "8:00-23:00",
+    "coordinates": {
+      "lng": 108.7950,
+      "lat": 29.5400
+    }
+  }
+]
